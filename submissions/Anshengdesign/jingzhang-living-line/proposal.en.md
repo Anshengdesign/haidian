@@ -191,6 +191,8 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 
 ![Landscape design (concept): Phase Plaza / Origin Plaza / Interface Plaza](assets/figures/landscape-phase.en.png)
 
+![Phase Plaza daytime rendering (AI concept intent, not implementation)](assets/media/d2-phase-plaza-day.jpg)
+
 ![Landscape design: Origin Plaza](assets/figures/landscape-origin.en.png)
 
 ![Landscape design: Interface Plaza](assets/figures/landscape-front.en.png)
@@ -203,6 +205,8 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 
 ![Night design (concept): the spine](assets/figures/night-spine.en.png)
 
+![Spine night rendering (AI concept intent, not implementation)](assets/media/d1-spine-night.jpg)
+
 ![Night design (concept): Dazhongsi front](assets/figures/night-front.en.png)
 
 ![Three-area layered detail board](assets/figures/key-areas.png)
@@ -210,6 +214,8 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 ---
 
 ## AI Innovation Ecosystem, Talent Profile & AI+ Scenarios (Prescription ring)
+
+![Ground-floor open shared-workspace rendering (AI concept intent, not implementation)](assets/media/d3-shared-workspace.jpg)
 
 Industry "1+X+1" (one flagship platform + Zhongzhiyuan full stack + Origin origination), talent profile (1,000+ scientists / 13,000 developers), 12 scenario cards — each card names one **no-AI equivalent path** (normal path remains usable when AI is removed), the implementation test of "AI ON = AI OFF": if the same thing cannot be done without AI, it does not go live. AI governance is the method layer, not the selling point — this plan's AI capability is "measuring the city", not "decorating the city" [metric:C7_POI]. Ecosystem support: Zhongzhiyuan's 18-fab/32-chip full-stack autonomy, with the five-party/six-force conversion mechanism.
 

@@ -227,6 +227,8 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ![三区景观设计（概念）：相变广场 / 原点广场 / 界面广场](assets/figures/landscape-phase.png)
 
+![相变广场日景效果图（AI 概念意向，非实施图）](assets/media/d2-phase-plaza-day.jpg)
+
 ![三区景观设计：原点广场](assets/figures/landscape-origin.png)
 
 ![三区景观设计：界面广场](assets/figures/landscape-front.png)
@@ -239,6 +241,8 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ![夜景设计（概念）：主脊夜景](assets/figures/night-spine.png)
 
+![主脊夜景效果图（AI 概念意向，非实施图）](assets/media/d1-spine-night.jpg)
+
 ![夜景设计（概念）：大钟寺界面夜景](assets/figures/night-front.png)
 
 ![三区层叠详设板](assets/figures/key-areas.png)
@@ -246,6 +250,8 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 ---
 
 ## AI 创新生态、人才画像与 AI+ 场景（处方环）
+
+![首层开放共享工位效果图（AI 概念意向，非实施图）](assets/media/d3-shared-workspace.jpg)
 
 产业 1+X+1（1 个旗舰平台 + 众智园全栈 + 原点策源）、人才画像（1000+ 科学家 / 1.3 万开发者）、12 场景卡——每张场景卡点名一条**无 AI 等价路径**（AI 撤除后普通路径仍可用），这是"AI ON = AI OFF"的落地判据：办不成无 AI 等价的事，就不上线。AI 治理是方法层，不是卖点——本方案的 AI 能力是"量城市"，不是"装饰城市" [metric:C7_POI]。生态支撑度：众智园 18 厂 32 芯片的全栈自主，配五方六力转化机制（高校/企业/资本/政府/场景五方 × 技术/人才/资本/场景/数据/政策六力）。
 

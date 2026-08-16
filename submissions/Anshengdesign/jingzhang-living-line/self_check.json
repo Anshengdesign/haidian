@@ -147,6 +147,9 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-road.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-road.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/media/cover.jpg",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/media/d1-spine-night.jpg",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/media/d2-phase-plaza-day.jpg",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/media/d3-shared-workspace.jpg",
         "submissions/Anshengdesign/jingzhang-living-line/assets/media/dazhongsi-front.jpg",
         "submissions/Anshengdesign/jingzhang-living-line/assets/media/hyperline-spine.jpg",
         "submissions/Anshengdesign/jingzhang-living-line/assets/media/interface-plaza.jpg",
@@ -189,7 +192,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 40210869,
+      "total_bytes": 41547937,
       "maintainer_bypass": false
     },
     "stderr": ""
