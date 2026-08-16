@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "ce86753542bf3b2167d33d32adeaf87535278238dd5be5a067d55c389870c2af"
+      "sha256": "56e97f8a9a7979653c72fcf10ee52acfa417e1412cf9ce8392f78b3260a97846"
     },
     {
       "path": "compliance_matrix.json",
@@ -290,7 +290,7 @@
       "role": "proposal_figure",
       "required": true,
       "language": "zh",
-      "sha256": "37fcd39830b6dcd3f26b442bf8f8a86250fd8c2f2af7654a25130e7475b13799"
+      "sha256": "f927734dac5d11f646e512b8691e61eda9a31717cc21e0b3e6dad5b4d1d66387"
     },
     {
       "path": "assets/figures/ecosystem-map.en.png",
@@ -298,14 +298,14 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/ecosystem-map.png",
-      "sha256": "d8f509487ac12f19249292d85d36aecd9ffe53a81ab2ea1a80c65d3210563a82"
+      "sha256": "75c39abaa4872c3df67e33e8a6b674b604fdfdb71fd4d676b9c6b0c73f47b17f"
     },
     {
       "path": "assets/figures/transmission-map.png",
       "role": "proposal_figure",
       "required": true,
       "language": "zh",
-      "sha256": "0426ef311595d808d22c0c7ac3887d3b4d2c29bb60b88dece2cbfff0aaa17f99"
+      "sha256": "fe4e96ba361c9b664ac4ede7b8c7c9c3ba926790e512482922c6ceb20a321c8b"
     },
     {
       "path": "assets/figures/transmission-map.en.png",
@@ -313,7 +313,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/transmission-map.png",
-      "sha256": "38a6171458eb4bb94af8ec3c8b86e7609547ddac0cda8ad45d7741f4fa0c7391"
+      "sha256": "dc36cb93765247a89936249c1b321492c861f9f4239c250cdefd0de6ec0bdc9f"
     },
     {
       "path": "assets/figures/c8-c9-c10.png",
@@ -329,7 +329,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "4a3fc5e83048a2bed07096f0b325d0b3f4643ff8ecda0f8d5c6d458b4c319a9e"
+      "sha256": "b4ced7152687e02815bedfcfe0b76bd6fcd46852104a78d676c5fc2a7f3a048e"
     },
     {
       "path": "assets/media/phase-plaza.jpg",
@@ -338,7 +338,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "ef1843c3730f878eb9e529eab59c49a0a3b2911274c2ddf2e7fb0f7558459ae4"
+      "sha256": "7d2f48499a655f4e6b7061301c1b527454550d70bbdad25e20ef086b79c7ea33"
     },
     {
       "path": "assets/media/interface-plaza.jpg",
@@ -347,7 +347,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "a4216b81a04b62e0b6dfe8f10ff29309a1e41deb9243ae90e03a00453cd2b5d7"
+      "sha256": "acd5f6652a2bff13f276da30b43f5efc7abe136fea992743e3041172887a35de"
     },
     {
       "path": "assets/figures/c8-c9-c10.en.png",
@@ -369,7 +369,7 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "91283aa5e54f54967f0673a9b6d9fe3eccd5a02e54a08ac9ccf16397b278371a"
+      "sha256": "5c4c67e96c43107526c436c4d1a350795bfaa3f8e9f4fca9558eeb1ef55fb905"
     },
     {
       "path": "assets/figures/c13-fractal.en.png",
@@ -377,7 +377,7 @@
       "required": false,
       "language": "en",
       "translation_of": "assets/figures/c13-fractal.png",
-      "sha256": "da7f198c12a159a022cc8f9d4822bdee9cae907bbe11e23b129f1933f5b1d112"
+      "sha256": "a2e491d73f7fe6dfa83fa7b19ba35166f1ad3c0350089d2ba35667de00af76dd"
     },
     {
       "path": "assets/figures/c1-wilson.png",
@@ -399,7 +399,7 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "d38db5a7fa60fb55ddf2328846c824325e1920ad94d89ce83cf9d7a1824663c5"
+      "sha256": "b3c2c0d88188f93ce29b80fffd50624ba9e686e91bbf86efc5441c4231e719dc"
     },
     {
       "path": "assets/figures/c11-simulacra.en.png",
@@ -407,7 +407,7 @@
       "required": false,
       "language": "en",
       "translation_of": "assets/figures/c11-simulacra.png",
-      "sha256": "8deb761085446aa61cb1aa18c03021cf895c955b8514d4f209e129c6bddce6b7"
+      "sha256": "c155d49a98a335b61189058ba047273943aa3329585987ab66e70faf8f924a2c"
     },
     {
       "path": "assets/figures/c12-ca.png",
@@ -489,7 +489,7 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "fa70d9a135c55ee2078929a31e76fe4d2ea1cac19221d4276e8c2856fd1495f4"
+      "sha256": "f3eb9140310ea2106eed41f99581f5b971ec652e8ff8024915d51e4178dbdae3"
     },
     {
       "path": "assets/figures/c15-luti.en.png",
@@ -497,14 +497,14 @@
       "required": false,
       "language": "en",
       "translation_of": "assets/figures/c15-luti.png",
-      "sha256": "f4c55686f716b3519eacb63a3d418889cc45a1bf4172efab8314b16eb26795d1"
+      "sha256": "3bc72522032885a5ae7043cb178492c8f8a2e064b1f2c5d83dfff766cdf033de"
     },
     {
       "path": "assets/figures/keyarea-zhongzhiyuan_ai_acceleration_area.png",
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "42882a000afa11d32a79331715657a159f53ce19c60c8ac905a8263b86fa5354"
+      "sha256": "365396a1dc87e114db01762a317dc4a9cf16cbec3d669f7d63d130523b228733"
     },
     {
       "path": "assets/figures/keyarea-zhongzhiyuan_ai_acceleration_area.en.png",
@@ -512,14 +512,14 @@
       "required": false,
       "language": "en",
       "translation_of": "assets/figures/keyarea-zhongzhiyuan_ai_acceleration_area.png",
-      "sha256": "79a22ab53673f478bef68feda579fddbe7ca262cae81b2bcfda6482909b4e23f"
+      "sha256": "ad7639a7f72a5578a7d4bd52e7c2fdc0e87e3160f61a7955f249b98f9e59a5bd"
     },
     {
       "path": "assets/figures/keyarea-beijing_ai_origin_community.png",
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "1a0b0585dbb6fe0d0724a3ad0ea6df6a540dce9bc6515b0fe3af1b78db676ce6"
+      "sha256": "69af3c27a82eb0abc73885173334ef478e5337394daafe8f053cdaa4b027e18b"
     },
     {
       "path": "assets/figures/keyarea-beijing_ai_origin_community.en.png",
@@ -527,14 +527,14 @@
       "required": false,
       "language": "en",
       "translation_of": "assets/figures/keyarea-beijing_ai_origin_community.png",
-      "sha256": "52810c7b07f9f43f37e95a4b9271029a9e5006a0be666af05cf48c7dd2ff63fa"
+      "sha256": "2a1a15004f67b20409161e24b172552475b997e55ca1d111c1047442c93170ba"
     },
     {
       "path": "assets/figures/keyarea-dazhongsi_ai_industry_cluster.png",
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "57f0d00166cf9d927307856027a65b170360ac680b6d69b843ea2996c10b8145"
+      "sha256": "1b3c6d63a8c2803032450e7bfb006673b2cef1944fa4311a16cd74eaa760c186"
     },
     {
       "path": "assets/figures/keyarea-dazhongsi_ai_industry_cluster.en.png",
@@ -542,7 +542,7 @@
       "required": false,
       "language": "en",
       "translation_of": "assets/figures/keyarea-dazhongsi_ai_industry_cluster.png",
-      "sha256": "ca239d359a5f24572d092f5a93b66dda166d5ad9fe50889c428ea0d382028f2e"
+      "sha256": "d0c1c3270df5ff8319ff170bcc6e7976b8ffec879fcb5b4d8e79d4a5a145500a"
     },
     {
       "path": "assets/figures/c16-syntax-maps.png",
@@ -701,7 +701,7 @@
       "language": "neutral",
       "title_zh": "2035 愿景鸟瞰（AI概念渲染）",
       "title_en": "2035 Vision aerial (AI conceptual rendering)",
-      "sha256": "ccb2fdba68c590b2ba0a24061cecc4c75ce4bb8f6a4683038b1c87b5c04619b5"
+      "sha256": "90af9e24e01f72d33d696bdc3f3a9ae971292829823e38329a2fea923ed5053b"
     },
     {
       "path": "assets/figures/c17-height-character.png",
@@ -1203,14 +1203,14 @@
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "0e9cd82ebab1612655b72a8d142826756f7c7f3848226f2fbcf172ae99712218"
+      "sha256": "f28385f90de954f899a7bce1ac833f58c5f8ca9d5b809e1d6139a57a68090bcb"
     },
     {
       "path": "assets/media/d2-phase-plaza-day.jpg",
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "f8decb78d0485879affaeeb1fae34afb699c46ed602e79995836d0ac760b96a0"
+      "sha256": "333d4258b829be3e146cb30a22a241e445512509625cf1ddc4c38db8aa3e38fc"
     },
     {
       "path": "assets/media/d3-shared-workspace.jpg",
@@ -1236,7 +1236,7 @@
     }
   ],
   "validation_claim": {
-    "self_checked": false,
+    "self_checked": true,
     "known_blockers": [],
     "data_confidence": "high",
     "readiness_contract": "persisted-self-check-v1"

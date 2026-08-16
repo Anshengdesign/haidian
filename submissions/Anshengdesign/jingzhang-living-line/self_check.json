@@ -108,6 +108,12 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/night-front.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/night-spine.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/night-spine.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/node-dazhongsi.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/node-dazhongsi.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/node-qinghuayuan.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/node-qinghuayuan.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/node-wudaokou.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/node-wudaokou.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/operations-timeline.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/operations-timeline.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/pilgrimage-landmarks.en.png",
@@ -194,7 +200,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 41644452,
+      "total_bytes": 40197061,
       "maintainer_bypass": false
     },
     "stderr": ""
