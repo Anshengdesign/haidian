@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "0000fd68756c3a64a1e4595eaacfa3424e7c273b843941169e13ecbe78a2a785"
+      "sha256": "8bbb0c83332942f2915aec10b62ed1ab6e454e150607c667803b1bc1d9d68c5c"
     },
     {
       "path": "compliance_matrix.json",
@@ -776,14 +776,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "382d7c4b7542ca1002b9011a8fb5f735b45bc9b67bd27376055a619311bc89bf"
+      "sha256": "6c666b6c5302f7b3a2047f1479d7aeba7890770d547f8164185b03416993b4d5"
     },
     {
       "path": "assets/figures/c21-emergent-brain.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "be325e3dd3c74ed395ca54b9bce32d86734332fd6e226442d662bda36647ea95",
+      "sha256": "65a8773408d8780e54f7b2a34976d222944abd0335a705a7579277df49144cc6",
       "translation_of": "assets/figures/c21-emergent-brain.png"
     },
     {
@@ -791,14 +791,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "555895d5812a3eda6748d6a43ed8aba47c93392ceb218818c6975153cbaa78ce"
+      "sha256": "29b9b5315c762024b2bb83cc3ce793ce858b7546b0606af2ff34f6beeffd9ef2"
     },
     {
       "path": "assets/figures/c22-phase-control-room.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "dbd6878c9ca55c5c9e56dadaff3860c9c9104b01a1d55ef1ab09afd865908790",
+      "sha256": "5706f79a18d77459925769e58b57fdd9185112f08a1f02429e324133078948c7",
       "translation_of": "assets/figures/c22-phase-control-room.png"
     },
     {
@@ -806,14 +806,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "ba0e71f01624729c9da5c8a33f3d2c7261ed125ef0a3f4598a47e44085d54582"
+      "sha256": "2a8a0c41de52734de4800ea96f0757442149c8564023c84b2c7a9ee8229b2fa0"
     },
     {
       "path": "assets/figures/c23-conclusion-dashboard.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "bb7c9ba42ec4dc19ed45003eb4a6bb90fb7958f670eba6b1a4dae828bb1c657c",
+      "sha256": "8568a413dbc7ebf89716eb0752b7a429338089bc1af5107b09b874c1978f7222",
       "translation_of": "assets/figures/c23-conclusion-dashboard.png"
     },
     {
@@ -1224,14 +1224,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "9499e9ced0383dd1647421171cb4d746de9609ac1744a6dd47eb8ccb5ef50a51"
+      "sha256": "0cc40eea7a0def5ec5c87b7d1d3d43d7d91038cf308a1f517f87999102332471"
     },
     {
       "path": "assets/figures/c35-finance.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "e27f667ac680255dcfa6d6b7b9339311fa5005c21916510925efc81a48ca215a",
+      "sha256": "88736cbb54a10aee0e4bd2c6f9cfeadd628605debec4dae5fa8bc9b2419434e2",
       "translation_of": "assets/figures/c35-finance.png"
     }
   ],
