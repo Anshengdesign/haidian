@@ -189,6 +189,22 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 
 **Ring conclusion →** Three-area prescriptions are implementable with stop conditions. The Verification ring proves whether they "work".
 
+![Landscape design (concept): Phase Plaza / Origin Plaza / Interface Plaza](assets/figures/landscape-phase.en.png)
+
+![Landscape design: Origin Plaza](assets/figures/landscape-origin.en.png)
+
+![Landscape design: Interface Plaza](assets/figures/landscape-front.en.png)
+
+![Street-front concept elevations: test band / innovation street / AI-native front](assets/figures/facade-stack.en.png)
+
+![Facade: innovation street](assets/figures/facade-origin.en.png)
+
+![Facade: AI-native front](assets/figures/facade-front.en.png)
+
+![Night design (concept): the spine](assets/figures/night-spine.en.png)
+
+![Night design (concept): Dazhongsi front](assets/figures/night-front.en.png)
+
 ![Three-area layered detail board](assets/figures/key-areas.png)
 
 ---

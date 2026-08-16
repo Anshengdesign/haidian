@@ -225,6 +225,22 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 **环结论 →** 三区处方可落地、有停止条件。验证环证明它们"有没有用"。
 
+![三区景观设计（概念）：相变广场 / 原点广场 / 界面广场](assets/figures/landscape-phase.png)
+
+![三区景观设计：原点广场](assets/figures/landscape-origin.png)
+
+![三区景观设计：界面广场](assets/figures/landscape-front.png)
+
+![三区临街界面概念立面：花园测试带 / 近校创新街 / 智能原生界面](assets/figures/facade-stack.png)
+
+![临街界面概念立面：近校创新街](assets/figures/facade-origin.png)
+
+![临街界面概念立面：智能原生界面](assets/figures/facade-front.png)
+
+![夜景设计（概念）：主脊夜景](assets/figures/night-spine.png)
+
+![夜景设计（概念）：大钟寺界面夜景](assets/figures/night-front.png)
+
 ![三区层叠详设板](assets/figures/key-areas.png)
 
 ---
