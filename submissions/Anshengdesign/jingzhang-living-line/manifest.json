@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "6e97db46901d60eba71b698d25ac64af76ccfdb9e2996485a3ee50c74bf6a159"
+      "sha256": "ac29ccc665b83b19a44bd17f13e3c11e04cc9c9f8c153cac1e9f3be8632d8f86"
     },
     {
       "path": "agent.json",
@@ -38,7 +38,7 @@
       "path": "metrics.json",
       "role": "metrics",
       "required": true,
-      "sha256": "a78e7be934bea4bee200d043bc5c3550e280c407be3d2f39b06a4e66fc79c3fc"
+      "sha256": "0829c380c716cb6db27b344559fb245d45f3fadf827ea956661ad1db37259ae8"
     },
     {
       "path": "assumptions.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "63d821f90635e5561eabdb8d4d654c2909c3dea1c37067896e44caddaeadff66"
+      "sha256": "1a7c9299b00113607039fb156169de9b2e92f0e4f866c62173755dc031e0005d"
     },
     {
       "path": "compliance_matrix.json",
@@ -1224,14 +1224,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "0cc40eea7a0def5ec5c87b7d1d3d43d7d91038cf308a1f517f87999102332471"
+      "sha256": "316b3b62f7e03b07c87f334fe4dd0d455a1b85187ffed20bac39b24eec921b0c"
     },
     {
       "path": "assets/figures/c35-finance.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "88736cbb54a10aee0e4bd2c6f9cfeadd628605debec4dae5fa8bc9b2419434e2",
+      "sha256": "983fcfdd54f6e5c0d9e3df2efab26cdc9993bece7309018e8d7afdb69d84a3a6",
       "translation_of": "assets/figures/c35-finance.png"
     }
   ],
