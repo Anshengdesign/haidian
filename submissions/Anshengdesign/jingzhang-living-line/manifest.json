@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "a9e5f12b9ea8876694d231c0ce0a042fde865b52d309c7e421b50814bae8932e"
+      "sha256": "5fed17085deeb4c5e75b02523546c2a6d7595d88d7269717d1fa2d892e3e9761"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "2da1aee6c57303195e0c5a1265a66b36461edde5c7a2d7967dc551c03e2689cc"
+      "sha256": "d30e6f07ccfdf8bd13d6f80c84827b14da2b494001257a95f10b485ed0cc4215"
     },
     {
       "path": "compliance_matrix.json",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "0219bbf507f0332cddc49e50d3abe4e9d15c529b216f908c7a0519ad2b67db0f"
+      "sha256": "46bf1f5af23a8a7fa8ed2428826c7aead30d37dada5f496297be902f753120a2"
     },
     {
       "path": "report/proposal.en.html",
@@ -639,14 +639,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "6f289873a6cd24e58e1e5f907b218eced146332b61931b271dbf14d15f8bcce7"
+      "sha256": "0b10296343eb8a17d60448ac00dd87324c5a9832283bdd29ebd98ed7a9bc2b2e"
     },
     {
       "path": "assets/figures/masterplan.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "8c406ecdde16add0a97bfb666b586d656e6e760dfebb45109a551811dc77b2a3",
+      "sha256": "b3d508773ec2e44e0b7cca4a3a8ee2fee521f6da931838be32526b3978b9117d",
       "translation_of": "assets/figures/masterplan.png"
     },
     {
@@ -654,7 +654,7 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "6cc915948f80c411ed587972a85a598bcd26c2cab677d2718dcd1a4968e5131f"
+      "sha256": "6158da8a2188c7e9fb4da492989fc011c94713727322c02b5633e2676b25ac04"
     },
     {
       "path": "assets/figures/plan-zhongzhiyuan_ai_acceleration_area.en.png",
@@ -662,7 +662,7 @@
       "required": false,
       "language": "en",
       "translation_of": "assets/figures/plan-zhongzhiyuan_ai_acceleration_area.png",
-      "sha256": "31fc53e8e343b88c080016c50ee33a447c8057197e7ec9ca555361ac7844f2d3"
+      "sha256": "8bcdf7ae0feebb19e51917aef7cb4e867892e42dbf26e2c0fb6dfc32f32fcd5e"
     },
     {
       "path": "assets/figures/plan-beijing_ai_origin_community.png",
@@ -927,6 +927,36 @@
       "language": "en",
       "translation_of": "assets/figures/vision-kpis.png",
       "sha256": "e73c952dc208c00d4148fd19ed69402812c58ab839ede19aaf8aeebbaecfa83a"
+    },
+    {
+      "path": "assets/figures/culture-heritage-map.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "1f412b3fdf6239c9e495a924d631911c6966ceff1ac0b83deed6e201c3ca9dc0"
+    },
+    {
+      "path": "assets/figures/culture-heritage-map.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "7cc00354b305fd6cb81b992827809c2538beec0d7d3e0dd1e454cad26fc724d2",
+      "translation_of": "assets/figures/culture-heritage-map.png"
+    },
+    {
+      "path": "assets/figures/pilgrimage-landmarks.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "ead915aa174d7ff5e187c3e9634f4807220ce6fad84c67dc51de08e33e5e18ec"
+    },
+    {
+      "path": "assets/figures/pilgrimage-landmarks.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "9e41a017c9518d864f72b2dc6e2af09aca534293158810ec7a1d24d23dd51bdc",
+      "translation_of": "assets/figures/pilgrimage-landmarks.png"
     }
   ],
   "validation_claim": {

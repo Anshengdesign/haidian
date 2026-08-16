@@ -66,6 +66,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c7-poi.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c8-c9-c10.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c8-c9-c10.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/culture-heritage-map.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/culture-heritage-map.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/dazhongsi-quadrant-zoom.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/dazhongsi-quadrant-zoom.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/ecosystem-map.en.png",
@@ -88,6 +90,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/mobility-bluegreen.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/operations-timeline.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/operations-timeline.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/pilgrimage-landmarks.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/pilgrimage-landmarks.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/plan-beijing_ai_origin_community.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/plan-beijing_ai_origin_community.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/plan-dazhongsi_ai_industry_cluster.en.png",
@@ -153,7 +157,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 41830868,
+      "total_bytes": 40022793,
       "maintainer_bypass": false
     },
     "stderr": ""
