@@ -52,6 +52,8 @@ iteration: "v2.0"
 
 **愿景（三个高度，一个目标）**：让百年京张成为全球第一个**用城市科学全程设计、可计算、可进化、为人服务**的 AI 创新带。别人交"蓝图"，我们交"城市操作系统"。当评审问"五年后怎么知道这条带成功了"，我们的回答不是形容词，是四个数：渗流巨分量 ≥0.90、句法锚点整合度增益 ≥30%、职住熵提升 ≥4%、EI 年度重跑并公开 [metric:GATE.bluegreen_giant_frac]。
 
+![愿景鸟瞰 2035（AI 渲染概念图，非实景承诺）— 沿京张铁路遗产线位看这条带](assets/media/vision-2035.jpg)
+
 ![愿景·5 KPI 现状 vs 目标：渗流 0.840→0.900（设计触发，现状记 GAP）、句法 +43.0% vs 30%、熵 +5.3% vs 4%、EI 0.962 vs 0.85、冗余度 R 0.870 vs 0.80（双柱状图，数据标单源）](assets/figures/vision-kpis.png)
 
 **双时钟世界观**：高频城市以秒/天/月跳动（25,476 个高德 POI 的分布是它的心跳）；低频城市以年/十年沉淀（控规、红线、产权是它的骨架）。只看见一个时钟的设计，会把"瞬时现象"错当"永久结构"，或把"永久约束"错当"可忽略"。
@@ -79,7 +81,15 @@ iteration: "v2.0"
 
 ![文脉资产化地图：七个文化资源点 × 四种利用方式](assets/figures/culture-heritage-map.png)
 
-![AI 朝圣地标体系：三处朝圣地标与朝圣动线](assets/figures/pilgrimage-landmarks.png)
+![AI 朝圣地标体系：三处朝圣地标与朝圣动线（沿京张铁路遗产线位串联）](assets/figures/pilgrimage-landmarks.png)
+
+![朝圣地标① 清华园车站·原点 — 百年站房保留展陈 + 开发者名墙对位 + 铁轨意象铺装（可实现建设级细节，无悬浮装置）](assets/media/origin-plaza.jpg)
+
+![朝圣地标② 五道口·相变广场 — λ 互动光场装置（光柱随人流形成相变波前，非电子屏）](assets/media/phase-plaza.jpg)
+
+![朝圣地标③ 大钟寺·界面广场 — 涌现之钟为广场新建光装置、与古钟（不可移动历史建筑）仅视线对景不并置](assets/media/interface-plaza.jpg)
+
+**与京张铁路整体规划改造的衔接（不脱离历史事件、不二次创作铁路本体）**：京张铁路遗址公园的整体规划与改造已完成体系性工作（公开事件：由中城院等完成京张铁路遗址公园整体规划与改造，京张高铁入地后地上线位开放为公共空间）——本方案不重做铁路本体，而是把这一既成成果作为**底图与约束**：铁路遗产线位=全带总图的第一图层（本文所有总图统一叠加铁路线位），朝圣动线沿遗产线位串联，三朝圣地标与七缝合点均挂在铁路廊道上；本方案在其之上叠加的是 AI 创新带的功能层、连接层与运行层——**在既有铁路规划成果上生长，而不是另起炉灶**。
 
 ## 设计依据与资料清单（世界观环）
 
@@ -219,19 +229,15 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ![众智园·全栈段 节点平面 A-A'（含测点 POI、三色叠加、剖面索引）](assets/figures/plan-zhongzhiyuan_ai_acceleration_area.png)
 
+![众智园·花园测试带效果图（AI 概念意向，非实施图）— 对应 A-A' 平面：带设备来的人在花园街区做有边界测试](assets/media/stack-testband.jpg)
+
 ![原点·策源段 节点平面 B-B'（含环校创新街 Vn、开发者名墙对景、剖面索引）](assets/figures/plan-beijing_ai_origin_community.png)
+
+![原点·近校创新街效果图（AI 概念意向，非实施图）— 对应 B-B' 平面：接住从学校出来的学生和创业者](assets/media/origin-community.jpg)
 
 ![大钟寺·界面段 节点平面 C-C'（含站域四象限步行缝合、三 POI 补位、剖面索引）](assets/figures/plan-dazhongsi_ai_industry_cluster.png)
 
-**效果图（概念意向，非实施图，按节点位置串）**：
-
-![主脊·Hyper Line 步骑分离效果图 — 对应 spine-section 主脊断面 / plan-zhongzhiyuan 全栈段节点 — 五年后这条线](assets/media/hyperline-spine.jpg)
-
-![清华园车站原点效果图 — 百年站房保留展陈 + 开发者名墙对位 + 铁轨意象铺装（可实现建设级细节，无悬浮装置） — 对应 plan-beijing_ai_origin_community 节点](assets/media/vision-2035.jpg)
-
-![五道口相变广场效果图 — λ 互动光场装置（光柱随人流形成相变波前，非电子屏） — 对应 spine-section 中 AI 界面柱节点 — 七缝合点之首相变触发处](assets/media/phase-plaza.jpg)
-
-![大钟寺界面广场效果图 — 涌现之钟为广场新建光装置、与古钟（不可移动历史建筑）仅视线对景不并置 — 对应 plan-dazhongsi 界面段节点 — 与古钟对景的 AI 消费界面](assets/media/interface-plaza.jpg)
+![大钟寺·界面之夜效果图（AI 概念意向，非实施图）— 对应 C-C' 平面：白天通勤、入夜小课与商户](assets/media/dazhongsi-front.jpg)
 
 **adaptive seed 落图**：容量极低单元完全走新建标"新建"色、可吸收单元标"补位"色、真超标单元标"处置"色（三区详设图已按此着色）。尺度化模块表字段：范围尺寸（120×120m 街区）/关键空间尺度（3.2m 步行道、相变广场 40×40m）/公共路径底线（AI 撤除后普通路径仍可用）/停止条件（HOLD）。
 
@@ -292,6 +298,8 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 ![道路交通规划图：分级+主脊慢行+七点接驳+轨道七站](assets/figures/zoning-road.png)
 
 ![主脊·Hyper Line 街道剖面 S-S'（步骑分离，概念断面）](assets/figures/spine-section.png)
+
+![主脊·Hyper Line 步骑分离效果图（AI 概念意向，非实施图）— 对应 S-S' 断面：沿京张铁路遗产线位，五年后这条线](assets/media/hyperline-spine.jpg)
 
 主脊贯通（步行/骑行脊，weight=几何距离）+ 七点接驳（双侧，≤150m）；轨道依托五道口/大钟寺/知春路等 7 站；市政/公共服务为体系建议（无管线底数，不给工程线位结论）。交通组织遵循"网络优先于地块"：先接回主脊，再谈地块功能 [metric:C32_LAMBDA_STITCHED]。诚实声明：缝合不改净网 λ（29.167% 不变），交通收益在句法可达性（+36%）而非机动车耦合距离。几何含义：七点接驳各连走廊两侧最近路网节点（≤150m），形成连续的慢行主脊；数据缺口：道路红线与断面未公开，断面尺寸为概念建议；轨道站点接驳与市政管线布局待官方底数后给出。
 
