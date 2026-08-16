@@ -276,11 +276,27 @@ Three layers, four terminals + recursive loop + phase-change control room. Every
 
 ---
 
-## Investment & Return (conceptual magnitude, not a commitment)
+## Investment & Return (conceptual-magnitude DCF, not a commitment)
 
-![Finance: cost range + triple returns + efficiency sensitivity (conceptual, not a commitment)](assets/figures/c35-finance.en.png)
+**Structure**: a real-estate-investment-banking-style DCF at conceptual magnitude — assumptions → capex breakdown → income model → opex → financing & exit → 20-year cash flow & key metrics → sensitivity matrix. Market benchmarks come from 2024–2026 public reports (Zhuge 2024Q1; Colliers 2024; CBRE 2024; China Fortune Beijing Affordable-Rental REIT 2024 interim; Arcadis 2023; DTZ capitalization-rate survey Vol.5). All parameters are ranges; full recalculation once official cost/rent/tax/cap-rate data arrive [metric:C35_FINANCE].
 
-Employment Fl new-build 446k m² (c33 empty-shell cells), FAR≈0.91, feasible at Beijing intensity. Investment is a conceptual-magnitude interval (not a commitment); phasing binds to acceptance gates — no next-stage funding without passing the gate. **Three ledgers, not one big number** — an honest interval beats a precise fake.
+**Dual caliber (the key discipline of public-good finance)**:
+- **Base caliber (the floor)** = sustainable net cash flow: stabilized NOI **0.75–1.25 (anchor 0.96 = mid cost 2.39bn × 4%)**, NOI yield 3.1–5.2%;
+- **Market caliber (the upside)** = full-lease potential: potential gross income **2.51–4.69 bn/yr** (office 107k m² × 3.0–5.5 CNY/m²/day; lab 71k × 2.4–4.5; apartments 178k × 55–95 CNY/m²/month; retail 36k × 3.5–7.5; public 54k × 0.5–1.5), effective gross income 1.63–3.05 bn (≈35% vacancy & policy discounts).
+
+**Capex in seven items (low/mid/high, summing exactly to 1.698/2.39/3.089 bn)**: seven stitches 0.021–0.056 | public space & paths 0.12–0.24 | interface renewal 0.09–0.18 | talent apartments 0.57–1.02 | test band 0.43–0.76 | Emergent Brain 0.32–0.60 | operating fund 0.147–0.233 (bn CNY). Mid all-in unit cost ≈ 5,360 CNY/m².
+
+**Cash flow & key metrics (20 years)**: phased capex (Y1–3 stitch+interface ≈18%, Y4–5 Origin ≈32%, Y6–10 Zhongzhiyuan ≈50%) with a rent ramp to stabilization in Y10; static payback **14.8–26.9 years** (base caliber); project IRR: base **3.5–5.5%** (same order as the 4% social discount rate — the arithmetic of public-good break-even) / market upside 10–14%; NPV@4% −0.2~+0.2 bn (crosses zero); DSCR base 0.6–0.8 (the gap = public subsidy; ≥1.2 after subsidy); financing: 35% equity + 65% debt (rate 4.0–5.0%, 12-yr annuity + 3-yr grace).
+
+**Exit (the honest conclusion)**: Y10 exit at cap 4.5–5.5% → base-caliber exit value **1.36–2.78 bn (mid 1.75 bn < total investment 2.39 bn)** — endogenous financial return does not cover the full investment; **the gap is precisely the public subsidy/social value** (employment reach +15.9% etc., not discounted) and should be listed separately as dedicated fiscal/REITs policy support; market upside 2.5–5.7 bn.
+
+**Sensitivity (four variables)**: rent ±20% → payback 17.3–26.0 yrs; occupancy ±5pct → 20.0–21.7 yrs; capex ±15% → 17.7–24.0 yrs; cap rate ±0.5pct → exit 1.60–1.92 bn. **Rent is the first-order sensitive variable** (prioritized for market anchoring).
+
+**Three ledgers**: rent (cash flow) + asset (exit value) + social (employment/tax/innovation agglomeration, not discounted). Public money for the skeleton; public gains for the soul.
+
+**Reconciliation with the earlier caliber (honesty note)**: 0.96 bn/yr = base-caliber stabilized NOI (4% yield); the 9.3–18.6% input-output ratio = the static gross-income yield (inverting to 0.287–0.316 bn/yr); 14.8–26.9 years = total investment ÷ 0.115 bn/yr net cash flow. The three are rungs of one "gross → effective → NOI → net cash flow" ladder, not three conflicting numbers. The β>1 superlinear premium (≈0.22 bn/yr, conceptual) is positioning only — never an accounting line. Supersedes the old "4.4bn / IRR 10.6%" pseudo-precision; phased funding stays bound to acceptance gates.
+
+![Finance: capex breakdown / income model / cash-flow & payback / sensitivity matrix (conceptual-magnitude DCF, not a commitment; benchmarks in assumptions)](assets/figures/c35-finance.en.png)
 
 ---
 

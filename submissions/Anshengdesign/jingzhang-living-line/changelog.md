@@ -5,6 +5,19 @@
 
 
 
+
+## v0.35 批2 清零 + 完善清单全量交付（自动执行轮）
+- **图件可读性批2 清零**：3 个并行子代理修复 21 张被引用图（A 科学诊断 7 图 / B 阶段图件 11 图 / C 总览面板 4 图），补齐 c2/c4b/c15 双语循环；体检 FAIL 0 / EXEMPT 10（未引用 6 张 + section×3 + c26 已表格化）。新增孤儿图重制脚本 gen_stage7_orphans_v2.py（ecosystem/operations/transmission 三图）。
+- **c26 国际对标**：proposal 改原生 markdown 表格（全平台清晰）。
+- **Logo 图形化**：logo-superlinear-line.png+.en（超线性之线：铁轨末端上翘 + 原点红点），agent.1 required output 补强。
+- **c35 龙卷风敏感性图**：c35-tornado.png+.en，入财务章。
+- **英文财务章同步**：proposal.en.md 按 DCF 双口径重写（无新增 metric 标记）；修复 zh/en metric 标记 33/32 不平衡 → 33/33。
+- **工程细节诚意**：建筑规模明细表（44.6 万㎡ 分项）+ 体量日照概念原则（南低北高，不编造日照数字）。
+- **多模态表达诚实声明**（视频/三维列为后续深化，静态网页为可访问后备表达）。
+- **包体**：全量 PNG P 模式量化（18.2→7.9MB），总包 40MB 内；PDF/微信/素材包全部重生成。
+- 体检工具升级：EXEMPT 豁免名单（未引用图）；归因修复第 4 处（exact 命中丢弃 v2/v3）。
+- 四门自检 PASS（formal-review-ready）。
+
 ## v0.34 A3/A0 图册重刷（同步重制后图件）
 - 修复：drawings/*.pdf 此前仍为旧版小字图（生成于可读性批1与 c35 v3 重制之前）；重跑 gen_pdfs.py 同步全部新图（c1/c16/c24/c25/c28/c35 等）。
 - 已知 cosmetic：PDF 文本层 ⑯ 等圈号字形 Heiti TC 缺失，不影响图面。

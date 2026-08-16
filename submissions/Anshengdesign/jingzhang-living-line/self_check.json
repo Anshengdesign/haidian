@@ -62,6 +62,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c3-scaling.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c35-finance.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c35-finance.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c35-tornado.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c35-tornado.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c4b-syntax.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c4b-syntax.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c7-poi.en.png",
@@ -96,6 +98,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/landscape-origin.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/landscape-phase.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/landscape-phase.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/logo-superlinear-line.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/logo-superlinear-line.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/master-plan.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/master-plan.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/masterplan.en.png",
@@ -200,7 +204,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 36934818,
+      "total_bytes": 32573099,
       "maintainer_bypass": false
     },
     "stderr": ""
