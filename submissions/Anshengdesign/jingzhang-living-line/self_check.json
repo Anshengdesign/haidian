@@ -110,6 +110,10 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/operations-timeline.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/pilgrimage-landmarks.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/pilgrimage-landmarks.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/pilot-detail.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/pilot-detail.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/pilot-location.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/pilot-location.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/plan-beijing_ai_origin_community.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/plan-beijing_ai_origin_community.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/plan-dazhongsi_ai_industry_cluster.en.png",
@@ -185,7 +189,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 40030670,
+      "total_bytes": 40210869,
       "maintainer_bypass": false
     },
     "stderr": ""

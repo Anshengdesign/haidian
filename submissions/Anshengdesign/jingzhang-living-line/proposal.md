@@ -286,6 +286,10 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ## 更新项目清单、实施政策与分期计划（处方环→运行环）
 
+![启动区选址图：90天试点单元（绑定渗流/句法验收闸门）](assets/figures/pilot-location.png)
+
+![试点单元详设：缝合+120m模块+职住成对补位+时序KPI](assets/figures/pilot-detail.png)
+
 **项目合同化**（每条含责任主体类型 / KPI / HOLD-RETIRE 停止条件）[metric:GATE.bluegreen_giant_frac]：
 - 近期：七点缝合（KPI=渗流≥0.90 且句法增益≥30%，不过则 HOLD）
 - 中期：原点社区策源段（KPI=职住匹配率→61.5%）

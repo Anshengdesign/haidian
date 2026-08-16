@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "e5657cd743f9796f456db3ee5e197b2ffdcd185daf3cc2d55b8c8f015627595e"
+      "sha256": "c0de0e34e69637c345e2823aac50775f195c0c79dd3db3c975134f251f19a7b5"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "1a9b43e98cdbfbda78f6b03391ddfd854c669a1258c7d56ed98b40ca6f5facee"
+      "sha256": "e0dc21663635b41deb58dc89674ca6f6a1e935722d3c24f726dcb721d4f161d0"
     },
     {
       "path": "compliance_matrix.json",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "6b2032547d531777196e4f1980624ec710733118019ef5beba9f466291301fcd"
+      "sha256": "e278a3939aa10d71ee4f31afcf6ef0f87eb7b521fe7301511d0e5dfa316219f3"
     },
     {
       "path": "report/proposal.en.html",
@@ -1167,6 +1167,36 @@
       "language": "en",
       "sha256": "c38f69f960ab5da95a7887521c40bd0122a658ea1ddfdf135dfccaf7df4ce605",
       "translation_of": "assets/figures/night-front.png"
+    },
+    {
+      "path": "assets/figures/pilot-location.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "dce37d1610beaa17e145474e6d31386f6c631d9bd5808bd975c7277aeb87cbb8"
+    },
+    {
+      "path": "assets/figures/pilot-location.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "df534842cc7c50b7bff683f1195e9d7ac7839c1e86a513a964f19092654ba053",
+      "translation_of": "assets/figures/pilot-location.png"
+    },
+    {
+      "path": "assets/figures/pilot-detail.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "95502aa76b5d942058f3259eb9b927c2bd53fdcfa6ea5d508b37390ff096c13e"
+    },
+    {
+      "path": "assets/figures/pilot-detail.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "52aeb949130dc5ab5a894242973cdd6c03611796b8856a2890f8b834ee7cad97",
+      "translation_of": "assets/figures/pilot-detail.png"
     }
   ],
   "validation_claim": {

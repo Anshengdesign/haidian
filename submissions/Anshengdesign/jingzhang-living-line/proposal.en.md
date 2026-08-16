@@ -247,6 +247,10 @@ Blue-green percolation: current giant fraction 0.840 → design 0.904 (stitching
 
 ## Renewal Project List, Implementation Policy & Phasing (Prescription + Operation rings)
 
+![Pilot location: 90-day cell (bound to percolation/syntax gates)](assets/figures/pilot-location.en.png)
+
+![Pilot-cell detail: stitch + 120m modules + paired infill + timeline & KPI](assets/figures/pilot-detail.en.png)
+
 **Project contracting** (each with responsible-actor type / KPI / HOLD-RETIRE stop condition) [metric:GATE.bluegreen_giant_frac]:
 - Near-term: seven-point stitch (KPI = percolation ≥0.90 AND syntax gain ≥30%, else HOLD)
 - Mid-term: Origin Community origination segment (KPI = jobs-housing match →61.5%)
