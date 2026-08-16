@@ -227,11 +227,11 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ![主脊·Hyper Line 步骑分离效果图 — 对应 spine-section 主脊断面 / plan-zhongzhiyuan 全栈段节点 — 五年后这条线](assets/media/hyperline-spine.jpg)
 
-![清华园/北京北站原点效果图 — 对应 plan-beijing_ai_origin_community 节点 — 百年京张原点（1909 人字形起点）](assets/media/vision-2035.jpg)
+![清华园车站原点效果图 — 百年站房保留展陈 + 开发者名墙对位 + 铁轨意象铺装（可实现建设级细节，无悬浮装置） — 对应 plan-beijing_ai_origin_community 节点](assets/media/vision-2035.jpg)
 
-![五道口相变广场效果图 — 对应 spine-section 中 AI 界面柱节点 — 七缝合点之首相变触发处](assets/media/phase-plaza.jpg)
+![五道口相变广场效果图 — λ 互动光场装置（光柱随人流形成相变波前，非电子屏） — 对应 spine-section 中 AI 界面柱节点 — 七缝合点之首相变触发处](assets/media/phase-plaza.jpg)
 
-![大钟寺界面广场效果图 — 对应 plan-dazhongsi 界面段节点 — 与古钟对景的 AI 消费界面](assets/media/interface-plaza.jpg)
+![大钟寺界面广场效果图 — 涌现之钟为广场新建光装置、与古钟（不可移动历史建筑）仅视线对景不并置 — 对应 plan-dazhongsi 界面段节点 — 与古钟对景的 AI 消费界面](assets/media/interface-plaza.jpg)
 
 **adaptive seed 落图**：容量极低单元完全走新建标"新建"色、可吸收单元标"补位"色、真超标单元标"处置"色（三区详设图已按此着色）。尺度化模块表字段：范围尺寸（120×120m 街区）/关键空间尺度（3.2m 步行道、相变广场 40×40m）/公共路径底线（AI 撤除后普通路径仍可用）/停止条件（HOLD）。
 
