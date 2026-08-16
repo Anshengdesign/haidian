@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "3dde628f1563ead8f8b959509db28ab9b8781a78c8f5c393ed326ecd27397550"
+      "sha256": "6e97db46901d60eba71b698d25ac64af76ccfdb9e2996485a3ee50c74bf6a159"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "afddb9308dace36412536d503a62196912a7625f02c35d0830cb8cbed45e2e5a"
+      "sha256": "0000fd68756c3a64a1e4595eaacfa3424e7c273b843941169e13ecbe78a2a785"
     },
     {
       "path": "compliance_matrix.json",

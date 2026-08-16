@@ -198,7 +198,7 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 
 ![产业生态地图：1+X+1 格局与五大功能偏离](assets/figures/ecosystem-map.png)
-![国际对标：东京日本桥/迪拜 Al Safa/沙迦 HWKN/马尔默 PublicTwin](assets/figures/c26-international-benchmark.png)
+![国际对标矩阵：七个全球案例 × 对标机制 × 本方案回应 × 实测数（伦敦国王十字/波士顿肯德尔广场/斯坦福研究园/深圳粤海/东京涩谷/剑桥集群/特拉维夫罗斯柴尔德大道）](assets/figures/c26-international-benchmark.png)
 ![POI 功能结构：科研+商业 57% vs 居住 16.5%（就业走廊）](assets/figures/c7-poi.png)
 
 **环结论 →** 生态缺口的精确位置已知，处方环按"缺什么补什么"开药。
