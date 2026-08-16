@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "5000f4e39de479ddcba5fb6e610e6a300586f569b2684c2e3f5a53a4b11f8529"
+      "sha256": "d6a2d0c2f1f991d3dfe9d2e6a18bfa9cb8947fb78b9002570cf30530cc41cc32"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "5890dbbaf991233544e0161af5d55a2f830ca53e9461cf00a8d8dbc731543bb1"
+      "sha256": "ce86753542bf3b2167d33d32adeaf87535278238dd5be5a067d55c389870c2af"
     },
     {
       "path": "compliance_matrix.json",
@@ -81,7 +81,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "50741283e20d4e90116a984cf582203aabfccba237f0e5a7a1e1d7bc83e9545d"
+      "sha256": "129e32b2405b64d997105d5e19ba7218341d211dc6095674f5ec916434481489"
     },
     {
       "path": "report/narrative.md",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "e9825087ff445cb5f8d0101990120bb9ba71e6ba7d27646d338ad85e06aaef02"
+      "sha256": "148e72d532315b910c15596d98256a75d568b5f7271fbf8060d5e90d3fa2a067"
     },
     {
       "path": "report/proposal.en.html",
@@ -219,7 +219,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "7e5201050475dff4d33cf4fca2597c910e228b2697c6fd39662f1d918c1931f7"
+      "sha256": "7295c8ac38c0811938c580142cd90fbcb028e6980b383e8ebccfc206da829eda"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -1218,6 +1218,21 @@
       "required": false,
       "language": "zh",
       "sha256": "b97ae3b089e9216f532ea120c2a3a799a7dda62871817e606b989ac429884f4d"
+    },
+    {
+      "path": "assets/figures/c35-finance.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "9499e9ced0383dd1647421171cb4d746de9609ac1744a6dd47eb8ccb5ef50a51"
+    },
+    {
+      "path": "assets/figures/c35-finance.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "e27f667ac680255dcfa6d6b7b9339311fa5005c21916510925efc81a48ca215a",
+      "translation_of": "assets/figures/c35-finance.png"
     }
   ],
   "validation_claim": {

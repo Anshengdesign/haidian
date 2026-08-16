@@ -278,6 +278,8 @@ Three layers, four terminals + recursive loop + phase-change control room. Every
 
 ## Investment & Return (conceptual magnitude, not a commitment)
 
+![Finance: cost range + triple returns + efficiency sensitivity (conceptual, not a commitment)](assets/figures/c35-finance.en.png)
+
 Employment Fl new-build 446k m² (c33 empty-shell cells), FAR≈0.91, feasible at Beijing intensity. Investment is a conceptual-magnitude interval (not a commitment); phasing binds to acceptance gates — no next-stage funding without passing the gate. **Three ledgers, not one big number** — an honest interval beats a precise fake.
 
 ---

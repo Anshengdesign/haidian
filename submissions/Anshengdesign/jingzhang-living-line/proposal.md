@@ -217,6 +217,22 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 | 原点社区 | 缺医疗/科研 | 补医疗科研配套，策源段 | 同上（adaptive seed） |
 | 大钟寺 | 缺金融/科研 | 补金融/科研，界面段 | 同上 |
 
+![众智园·全栈段 节点平面 A-A'（含测点 POI、三色叠加、剖面索引）](assets/figures/plan-zhongzhiyuan_ai_acceleration_area.png)
+
+![原点·策源段 节点平面 B-B'（含环校创新街 Vn、开发者名墙对景、剖面索引）](assets/figures/plan-beijing_ai_origin_community.png)
+
+![大钟寺·界面段 节点平面 C-C'（含站域四象限步行缝合、三 POI 补位、剖面索引）](assets/figures/plan-dazhongsi_ai_industry_cluster.png)
+
+**效果图（概念意向，非实施图，按节点位置串）**：
+
+![主脊·Hyper Line 步骑分离效果图 — 对应 spine-section 主脊断面 / plan-zhongzhiyuan 全栈段节点 — 五年后这条线](assets/media/hyperline-spine.jpg)
+
+![清华园/北京北站原点效果图 — 对应 plan-beijing_ai_origin_community 节点 — 百年京张原点（1909 人字形起点）](assets/media/vision-2035.jpg)
+
+![五道口相变广场效果图 — 对应 spine-section 中 AI 界面柱节点 — 七缝合点之首相变触发处](assets/media/phase-plaza.jpg)
+
+![大钟寺界面广场效果图 — 对应 plan-dazhongsi 界面段节点 — 与古钟对景的 AI 消费界面](assets/media/interface-plaza.jpg)
+
 **adaptive seed 落图**：容量极低单元完全走新建标"新建"色、可吸收单元标"补位"色、真超标单元标"处置"色（三区详设图已按此着色）。尺度化模块表字段：范围尺寸（120×120m 街区）/关键空间尺度（3.2m 步行道、相变广场 40×40m）/公共路径底线（AI 撤除后普通路径仍可用）/停止条件（HOLD）。
 
 
@@ -275,6 +291,8 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ![道路交通规划图：分级+主脊慢行+七点接驳+轨道七站](assets/figures/zoning-road.png)
 
+![主脊·Hyper Line 街道剖面 S-S'（步骑分离，概念断面）](assets/figures/spine-section.png)
+
 主脊贯通（步行/骑行脊，weight=几何距离）+ 七点接驳（双侧，≤150m）；轨道依托五道口/大钟寺/知春路等 7 站；市政/公共服务为体系建议（无管线底数，不给工程线位结论）。交通组织遵循"网络优先于地块"：先接回主脊，再谈地块功能 [metric:C32_LAMBDA_STITCHED]。诚实声明：缝合不改净网 λ（29.167% 不变），交通收益在句法可达性（+36%）而非机动车耦合距离。几何含义：七点接驳各连走廊两侧最近路网节点（≤150m），形成连续的慢行主脊；数据缺口：道路红线与断面未公开，断面尺寸为概念建议；轨道站点接驳与市政管线布局待官方底数后给出。
 
 ---
@@ -332,25 +350,9 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 **投资效率（静态测算）**：投入产出比 9.3%–18.6%，静态回收期 14.8–26.9 年。**这是长周期公共品投资，不是短期投机**——城市更新的回报不是 IRR 一个数，而是 β>1 的集聚溢价随时间的复利。
 
+![财务测算：造价区间 + 回报三重 + 投资效率敏感性（概念量级，非投资承诺）](assets/figures/c35-finance.png)
+
 **诚实声明**：取代老版"44 亿/IRR 10.6%"的伪精确——改为区间+假设+效率指标；官方造价与产业数据到位后重算。分期绑定验收闸门，未过闸门不释放下一期资金。
-
-**空间设计的造价载体（节点设计 + 断面，双语见 .en 图）**：
-
-![主脊·Hyper Line 街道剖面 S-S'](assets/figures/spine-section.png)
-![众智园·全栈段 节点平面 A-A'（含测点 POI、三色叠加、剖面索引）](assets/figures/plan-zhongzhiyuan_ai_acceleration_area.png)
-![大钟寺·界面段 节点平面 C-C'（含站域四象限步行缝合、三 POI 补位、剖面索引）](assets/figures/plan-dazhongsi_ai_industry_cluster.png)
-![原点·策源段 节点平面 B-B'（含环校创新街 Vn、开发者名墙对景、剖面索引）](assets/figures/plan-beijing_ai_origin_community.png)
-
-**效果图（概念意向，非实施图，按节点位置串）**：
-
-![主脊·Hyper Line 步骑分离效果图 — 对应 spine-section 主脊断面 / plan-zhongzhiyuan 全栈段节点 — 五年后这条线](assets/media/hyperline-spine.jpg)
-![大钟寺界面广场效果图 — 对应 plan-dazhongsi 界面段节点 — 与古钟对景的 AI 消费界面](assets/media/interface-plaza.jpg)
-![五道口相变广场效果图 — 对应 spine-section 中 AI 界面柱节点 — 七缝合点之首相变触发处](assets/media/phase-plaza.jpg)
-![清华园/北京北站原点效果图 — 对应 plan-beijing_ai_origin_community 节点 — 百年京张原点（1909 人字形起点）](assets/media/vision-2035.jpg)
-
----
-
-![财务测算：造价区间 + 回报三重 + 投资效率敏感性](assets/figures/c20-finance.png)
 
 ## 指标体系、面积复算与合规矩阵（验证环）
 

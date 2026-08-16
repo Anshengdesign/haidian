@@ -60,6 +60,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c28-luti-scenarios.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c3-scaling.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c3-scaling.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c35-finance.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c35-finance.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c4b-syntax.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c4b-syntax.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c7-poi.en.png",
@@ -192,7 +194,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 41549832,
+      "total_bytes": 41644452,
       "maintainer_bypass": false
     },
     "stderr": ""
