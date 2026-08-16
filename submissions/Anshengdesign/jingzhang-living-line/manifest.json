@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "5fed17085deeb4c5e75b02523546c2a6d7595d88d7269717d1fa2d892e3e9761"
+      "sha256": "3c3440c1a66c0f49e21cf2f87e8684a528cfaa4f489b1f3849115993a670c1b0"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "d30e6f07ccfdf8bd13d6f80c84827b14da2b494001257a95f10b485ed0cc4215"
+      "sha256": "6555af821d3fbd132aa7ae735d44bfd6a41c7b4e48889b5aacfdaaa3a7243c91"
     },
     {
       "path": "compliance_matrix.json",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "46bf1f5af23a8a7fa8ed2428826c7aead30d37dada5f496297be902f753120a2"
+      "sha256": "7026ef64d03d278b7baaee39590a08f2dd1940c9d9d4d5ae9a8e9a13bce39c06"
     },
     {
       "path": "report/proposal.en.html",
@@ -957,6 +957,96 @@
       "language": "en",
       "sha256": "9e41a017c9518d864f72b2dc6e2af09aca534293158810ec7a1d24d23dd51bdc",
       "translation_of": "assets/figures/pilgrimage-landmarks.png"
+    },
+    {
+      "path": "assets/figures/zoning-landuse.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "6389d06d7eef2c57ceba636fb79660b16ad6601244be47eb7c6c372e6a6d1295"
+    },
+    {
+      "path": "assets/figures/zoning-landuse.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "d6d91351d7bdacb739dba1a3bfa9a63c679e6ebafaa7e11964d91cec96ec4f99",
+      "translation_of": "assets/figures/zoning-landuse.png"
+    },
+    {
+      "path": "assets/figures/master-plan.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "30c4b7a2378449a8ff36793c72606c12297e082c3396d50ee6b20a380b19716a"
+    },
+    {
+      "path": "assets/figures/master-plan.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "f014f2d5385785094b3e7ea3b04ffea837be891b5034da059a7f05008d285e72",
+      "translation_of": "assets/figures/master-plan.png"
+    },
+    {
+      "path": "assets/figures/zoning-road.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "8b142581d84eef0c350fa3e81dc0d9574378a891d0756fca08c6a9b98186ecaa"
+    },
+    {
+      "path": "assets/figures/zoning-road.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "7ed3ee44ab2e1220843629ec3da1b98ee217b21da5d6c6129f138c565d3e8e47",
+      "translation_of": "assets/figures/zoning-road.png"
+    },
+    {
+      "path": "assets/figures/zoning-bluegreen.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "7774906241f6e8e0d4fe219caed8759412d1fcb188b80982c0fca91ea170ee37"
+    },
+    {
+      "path": "assets/figures/zoning-bluegreen.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "78c1d2132d4d6c0f59d8705316082095a8ec38b11d2ebebd1b11b168bca1dd2d",
+      "translation_of": "assets/figures/zoning-bluegreen.png"
+    },
+    {
+      "path": "assets/figures/zoning-intensity.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "1d70f5172428e1f91ad9b9eddb25526462b1114b6b641e6338bb1974ed5cfcf7"
+    },
+    {
+      "path": "assets/figures/zoning-intensity.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "fda311a137de478bfd2f4c2c40f5260c56961dd57689ea831b878b0348f6343c",
+      "translation_of": "assets/figures/zoning-intensity.png"
+    },
+    {
+      "path": "assets/figures/zoning-character.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "fa4acebfd368a1a8290d3736308a871f2e356461ffbebb798495b60bcc0e5d25"
+    },
+    {
+      "path": "assets/figures/zoning-character.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "11f7d6ad4cb2ea4ef26276b2c4ed93537f4c94d8f675d7c14547f2b002d177b6",
+      "translation_of": "assets/figures/zoning-character.png"
     }
   ],
   "validation_claim": {

@@ -203,17 +203,27 @@ Industry "1+X+1" (one flagship platform + Zhongzhiyuan full stack + Origin origi
 
 ## Land Use, Building Scale & Demolition-renovation-retention (Prescription ring)
 
+![Land-use plan (conceptual regulatory level)](assets/figures/zoning-landuse.en.png)
+
+![Height & intensity control (conceptual, five control guidances)](assets/figures/zoning-intensity.en.png)
+
 POI-proxy land-use structure: within the belt, research+commerce 57% vs residential 16.5% (an employment corridor; jobs-housing balance is the target) [metric:C7_POI]. Demolition/renovation/retention is conceptual (no parcel/building stock data — no demolition conclusions); building scale is constrained by Fl capacity (employment [181k–1,190k] m², new-build 446k m² into investment) [metric:C31_FL]. Statutory FAR, height, density **deliberately withheld** — no fabricated numbers until official control data arrives. Geometric meaning: employment Fl mid ≈ 685,370 m² for 941 employment POIs (≈728 m²/pt), the capacity side of c33.
 
 ---
 
 ## Transport, Rail, Municipal & Public Services (Prescription ring)
 
+![Road & transport plan: hierarchy + slow spine + seven links + seven stations](assets/figures/zoning-road.en.png)
+
 Spine through-connection (walk/bike spine, weight = geometric distance) + seven-point two-sided links (≤150m); rail on 7 stations (Wudaokou/Dazhongsi/Zhichunlu etc.); municipal/public services are system-level suggestions (no utility stock — no engineering alignment conclusions). Transport follows "network before parcel": reconnect the spine before discussing parcel function [metric:C32_LAMBDA_STITCHED]. Honest statement: stitching does not change network λ (29.167% unchanged); the transport gain is in syntax reachability (+36%), not motorized coupling distance.
 
 ---
 
 ## Blue-Green, Public Space & City Character (Prescription ring)
+
+![Blue-green system plan: giant component 0.840→0.904](assets/figures/zoning-bluegreen.en.png)
+
+![Character control: protective overlay × generative growth + view corridor](assets/figures/zoning-character.en.png)
 
 Blue-green percolation: current giant fraction 0.840 → design 0.904 (stitching 383 green patches → 66 connected components) [metric:C2_PERC]. Seven nodes are seven "phase-change points"; three landmarks (Qinghuayuan Station origin / Wudaokou phase-change plaza / Dazhongsi frontage plaza). City character follows "protective overlay + generative growth": heritage view-corridor protection (protective) + AI block height gradient (generative). Public-space floor: the 40×40m phase-change plaza hosts developer public life, remaining a normal plaza when AI is removed. Data gap: heritage control range and blue lines unpublished — landmark design stays conservative.
 

@@ -82,6 +82,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/keyarea-zhongzhiyuan_ai_acceleration_area.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/land-use-structure.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/land-use-structure.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/master-plan.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/master-plan.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/masterplan.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/masterplan.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/metrics-evidence.en.png",
@@ -114,6 +116,16 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/transmission-map.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/vision-kpis.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/vision-kpis.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-bluegreen.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-bluegreen.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-character.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-character.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-intensity.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-intensity.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-landuse.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-landuse.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-road.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-road.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/media/cover.jpg",
         "submissions/Anshengdesign/jingzhang-living-line/assets/media/dazhongsi-front.jpg",
         "submissions/Anshengdesign/jingzhang-living-line/assets/media/hyperline-spine.jpg",
@@ -157,7 +169,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 40022793,
+      "total_bytes": 41369102,
       "maintainer_bypass": false
     },
     "stderr": ""
