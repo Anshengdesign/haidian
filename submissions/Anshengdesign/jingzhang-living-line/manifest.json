@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "4910ae752a4f29c6018220af8f1a1e4e11d1ae9a467d1506cb9e683fc8821408"
+      "sha256": "3220ce821b44db9c4299945e0caa0aa873296d7080d532469bde0a949d9717ab"
     },
     {
       "path": "compliance_matrix.json",
@@ -100,14 +100,14 @@
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "75a346b159ee6c620fd06208063c36cc40114531dd7ca24c69745dbdd2099e70"
+      "sha256": "03d35b8082748bbeb44b469586fcf502b1bab048d0b0506bbe93df795e057d7a"
     },
     {
       "path": "drawings/a0-boards.pdf",
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "b338065f0cc156c1e02347f6f4e157b867ec69d34d393bfedaf33aef722eb792"
+      "sha256": "b05174c9f7900e31b6c79747bf0255ece526fefb8c47baf0ad2c788e921f2ad6"
     },
     {
       "path": "visual/index.html",
@@ -227,7 +227,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a3-booklet.pdf",
-      "sha256": "a8ff8ae018cbb23ee4c4ce2b379f85276a324609f9fefbede1ea6e29f1035a77"
+      "sha256": "7704dde9ba492ce07857df13b2389c88c5b691a54b3390dde92f9f94067fb785"
     },
     {
       "path": "drawings/a0-boards.en.pdf",
@@ -235,7 +235,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a0-boards.pdf",
-      "sha256": "2d8f7c605acc8b62e0962e736f241dc3e0f1914a8434a9b5070e128264f6266a"
+      "sha256": "35c94cc84ae40d7b3efc8be1da6c41dd8cd4007cb1e6fe7414abae5da249b28f"
     },
     {
       "path": "visual/index.en.html",
@@ -338,7 +338,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "43f780b6284134052f785e46471dcf60250375f840465818a5a9030156da2fd5"
+      "sha256": "efc18eb069a56c4d2c2e1f905dc2f9a13ec24e01a15ebd840e1f67f7e2c2bd28"
     },
     {
       "path": "assets/media/interface-plaza.jpg",
@@ -1210,14 +1210,14 @@
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "90f8142ba52ca9cb0e788f2d9f6ebc95e29d11af4fa31eed1f3bf8206ef81a49"
+      "sha256": "1826564467cf7558416ed0dc251f6337500bdba94c6f91c15e456feb1dabc08f"
     },
     {
       "path": "assets/media/d3-shared-workspace.jpg",
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "8167cb38b3b17eff7f114ddd1c981b6492e0add9ff05e1792f1485a2a5bb4028"
+      "sha256": "c562f9d8b825e118a7a7eaa67dfc5257f5fdffb0d05f13c4ffd00b663983ce77"
     },
     {
       "path": "assets/figures/c35-finance.png",
