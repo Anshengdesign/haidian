@@ -173,6 +173,8 @@ Functional deviation (c8) five deficit categories: finance −63%, research −4
 
 **One line, three folds, two wings, seven points**: stitch the spine, cut by seven roads, back into one continuous line (Hyper Line). Overall structure = spine + three areas (Zhongzhiyuan / Origin / Dazhongsi) + two wings (Zhongguancun factor wing / Xiaoyuehe scenario wing) + seven nodes. Stitching is a "phase change", not "decoration": the seven-point stitch pushes blue-green percolation past the critical threshold. Design intent: no mass demolition — minimal intervention to trigger a system phase change; data gap: official red lines unpublished, stitch positions and cross-sections are conceptual pending official data.
 
+**Regional synergy (explicit answer to the review dimension)**: the two wings are the belt's open interfaces to the region, not decorations — ① the Zhongguancun factor wing connects west/north to **Zhongguancun Science City** and **Future Science City** (a factor corridor: capital, data, compute flow through the wing); ② the Xiaoyuehe scenario wing connects south to the **Xueyuanlu university cluster** and nearby communities such as **Beiwei Community** (a scenario corridor: campus outputs and community needs are translated in the wing); ③ northward it echoes the **Huairou Science City** big-science facilities, southward it links to **Beijing E-Town** for manufacturing and pilot-scale conversion, and it exports application scenarios and open standards to **Beijing-Tianjin-Hebei** (the replicable interface of the "Emergent Belt" open methodology). Synergy is expressed as mechanisms and corridors, not pre-assumed cross-region projects; specific projects await regional linkage-planning data.
+
 **Ring conclusion →** Mechanisms geometrized; prescriptions land on specific spaces. Key-area detailing takes over.
 
 ---
@@ -249,7 +251,7 @@ Spine through-connection (walk/bike spine, weight = geometric distance) + seven-
 
 ![Character control: protective overlay × generative growth + view corridor](assets/figures/zoning-character.en.png)
 
-Blue-green percolation: current giant fraction 0.840 → design 0.904 (stitching 383 green patches → 66 connected components) [metric:C2_PERC]. Seven nodes are seven "phase-change points"; three landmarks (Qinghuayuan Station origin / Wudaokou phase-change plaza / Dazhongsi frontage plaza). City character follows "protective overlay + generative growth": heritage view-corridor protection (protective) + AI block height gradient (generative). Public-space floor: the 40×40m phase-change plaza hosts developer public life, remaining a normal plaza when AI is removed. Data gap: heritage control range and blue lines unpublished — landmark design stays conservative.
+Blue-green percolation: current giant fraction 0.840 → design 0.904 (stitching 383 green patches → 66 connected components) [metric:C2_PERC]. Seven nodes are seven "phase-change points"; three landmarks (Qinghuayuan Station origin / Wudaokou phase-change plaza / Dazhongsi frontage plaza). City character follows "protective overlay + generative growth": heritage view-corridor protection (protective) + AI block height gradient (generative). Public-space floor: the 40×40m phase-change plaza hosts developer public life, remaining a normal plaza when AI is removed. Public-space safety and accessibility are labeled honestly under the caliber of Article 39 of the national accessibility law, stating the scope of application. Data gap: heritage control range and blue lines unpublished — landmark design stays conservative.
 
 ---
 
