@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "b7c73cf41ad26b5bc695d1874fe0874e833bf9676b364c3b1ff3c231f44c899e"
+      "sha256": "226a54331d8ca15b2b6c6b8c4d6ed076a927d61d6f9a5f25f4f3f165ea1825b8"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "a53783813fa2455fe48b347f1e1e9e9f4a4462e9db30c008090505dc71a925b7"
+      "sha256": "4363a55658f8e34b90de8278f2fb98b338ef78c70e2306728b73219faad916bc"
     },
     {
       "path": "compliance_matrix.json",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "f3709afa5251ea47362270113bd4d3f8b5cff45e2808efaf28169d87928d5ef3"
+      "sha256": "9487a0390f3f182595a5eaf08ae7fcc67e6233149118e87d81fec6ed82296da3"
     },
     {
       "path": "report/proposal.en.html",
@@ -978,14 +978,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "83a30469712800dc87fbd1d94ed6321f2b3ed89395c1942d0bf47b709648bae9"
+      "sha256": "c94dac55680d1180aa4fad571bb65b7d2a0b344e397c9a279615208448a2e474"
     },
     {
       "path": "assets/figures/master-plan.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "da5baa6c3af6bb087ef7ec690e4ebeee1978150c0d2c19d251a763e66768a301",
+      "sha256": "fe3f7ab0108da0445051ad4859867d9baa06fe3c2d84937bbfcd6ab026d45e92",
       "translation_of": "assets/figures/master-plan.png"
     },
     {
@@ -1353,6 +1353,21 @@
       "language": "en",
       "sha256": "a7700b22bd7789d68bbadfd199713ca1bed8506cb0f32633e0120cedca1e246a",
       "translation_of": "assets/figures/wayfinding-system.png"
+    },
+    {
+      "path": "assets/figures/wing-coordination.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "4f9b74ae2ccbfcc5c8ef450a98a06c48083a145f4ead483fedf04a2b5af07844"
+    },
+    {
+      "path": "assets/figures/wing-coordination.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "9a992764a84adc37cab3f25738305ace67d22973fef33ca1ff5f017804cb4a28",
+      "translation_of": "assets/figures/wing-coordination.png"
     }
   ],
   "validation_claim": {

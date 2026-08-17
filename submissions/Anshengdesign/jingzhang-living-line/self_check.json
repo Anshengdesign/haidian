@@ -160,6 +160,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/vision-kpis.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/wayfinding-system.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/wayfinding-system.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/wing-coordination.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/wing-coordination.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-bluegreen.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-bluegreen.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-character.en.png",
@@ -216,7 +218,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 35575281,
+      "total_bytes": 37081849,
       "maintainer_bypass": false
     },
     "stderr": ""
