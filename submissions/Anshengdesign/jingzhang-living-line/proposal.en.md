@@ -177,6 +177,22 @@ Functional deviation (c8) five deficit categories: finance −63%, research −4
 
 ![Three-areas × two-wings synergy loop: task-book roles × approved-plan alignment × conceptual sections](assets/figures/wing-coordination.en.png)
 
+**Alignment with the approved plan's 9 dominant functional zones**:
+
+| Plan zone | Our take-up | Location | Keep/retrofit/new |
+|---|---|---|---|
+| Public services | targeted finance/medical/research infill (finance −63%, weakest in all three areas) | Origin (medical/research), Dazhongsi (finance/research) | retrofit + new (11 cells) |
+| Commercial-business | AI-native commercial front + factor-wing service interface | Dazhongsi 1733 front, ZGC Avenue axis | retrofit (Lanjinglijia / Douyin towers) |
+| Infrastructure | seven-station TOD + Emergent Brain facilities | seven stations, Phase Plaza | new (Brain 0.32–0.60bn) |
+| Residential | live-work pairs 1:1 + talent apartments 178k m² | 45 empty-shell cells, new cells | retrofit + new |
+| Culture-education | campus-edge dual interface + landmark culture system | Origin (BUAA/BLCU), Tsinghuayuan Station | keep + retrofit (wall gallery) |
+| Mixed | mixed towers (20% housing in offices / 15% office in homes) | 11 new cells (120m modules) | new |
+| Special | full-stack test band (bounded test scenes) | Zhongzhiyuan Quantum Garden | retrofit (768) + new |
+| Green-water | blue-green percolation 0.840→0.904 + three belts (Jing-Zhang/Xiaoyuehe/Nanchanghe) | spine greenbelt, two wings | keep + ecological upgrade |
+| Water protection | Nanchanghe/Xiaoyuehe protection + sponge | Nanchanghe (west of Dazhongsi), Xiaoyuehe | keep & protect |
+
+**Official "multiple points" adopted**: first-level nodes (Zhichunlu / Sidaokou) and second-level nodes (Haidian Huangzhuang / Zhichunlu-West / Yingu / Xitucheng / Zaojunmiao / BUPT) join our node system — Huangzhuang·Zhichunlu-West·Yingu on the factor wing, Xitucheng·BUPT·Jimenqiao on the scenario wing, Zaojunmiao north of Dazhongsi — forming the full "7 stitches + official multi-points" hierarchy.
+
 **Structural alignment with the approved block-level regulatory plan (latest official basis, 2026-08)**: the block regulatory plan for the Jing-Zhang corridor (AI Innovation District key area, HD00-1601 etc.; published for comment 2024-12-20, approved 2026-08-11) establishes the spatial structure "one belt, one axis, two hearts, multiple points" and three goals — an innovation-intensive district of international influence, a green-ecology-led renewal benchmark district, and a humanistic, livable garden district. This proposal aligns structurally with the plan: the Hyper Line spine = the "one belt" (the Jing-Zhang innovation exchange belt), with our AI function layer added on top; Wudaokou and Dazhongsi = the "two hearts" (taken up by our Phase Plaza employment core and the Interface Plaza station front); the seven stitches = connectivity reinforcement of the "multiple points"; the three goals map onto our emergence intelligence (EI/syntax), blue-green percolation (0.904), and park-like livability (live-work entanglement + garden blocks). The plan's precise control indicators and red lines are not yet publicly available — statutory values remain unknown: structure aligned, numbers not overstepped.
 
 **Regional synergy (explicit answer to the review dimension)**: the two wings are the belt's open interfaces to the region, not decorations — ① the Zhongguancun factor wing connects west/north to **Zhongguancun Science City** and **Future Science City** (a factor corridor: capital, data, compute flow through the wing); ② the Xiaoyuehe scenario wing connects south to the **Xueyuanlu university cluster** and nearby communities such as **Beiwei Community** (a scenario corridor: campus outputs and community needs are translated in the wing); ③ northward it echoes the **Huairou Science City** big-science facilities, southward it links to **Beijing E-Town** for manufacturing and pilot-scale conversion, and it exports application scenarios and open standards to **Beijing-Tianjin-Hebei** (the replicable interface of the "Emergent Belt" open methodology). Synergy is expressed as mechanisms and corridors, not pre-assumed cross-region projects; specific projects await regional linkage-planning data.
