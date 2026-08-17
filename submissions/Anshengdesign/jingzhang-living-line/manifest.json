@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "d68e98b563008eeb60378f214df1db5b637e830017fad060e98e6d855f890d3a"
+      "sha256": "939080d4ac6d91ae9d90afb77a496e4125730ce5f3d327f650a0f5f06b2743fa"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "405bf3712cf04ebcbf78089a9bd992a1d566ba940ee849eee4cb43267f8c329a"
+      "sha256": "4910ae752a4f29c6018220af8f1a1e4e11d1ae9a467d1506cb9e683fc8821408"
     },
     {
       "path": "compliance_matrix.json",
@@ -100,14 +100,14 @@
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "7aaeb8fa79a0880b7ba86f0abbeb8e1500379025b7b5804b575f3f7c49eeaec7"
+      "sha256": "75a346b159ee6c620fd06208063c36cc40114531dd7ca24c69745dbdd2099e70"
     },
     {
       "path": "drawings/a0-boards.pdf",
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "b8642ed5bd5ad6109d414420751bd239adcbbae7dacb38ec686f9c70705fbc47"
+      "sha256": "b338065f0cc156c1e02347f6f4e157b867ec69d34d393bfedaf33aef722eb792"
     },
     {
       "path": "visual/index.html",
@@ -227,7 +227,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a3-booklet.pdf",
-      "sha256": "4d032a2d623f5bbd7bfaefcf368337baedfc8f90e77db10e87ed6c85f10fa65b"
+      "sha256": "a8ff8ae018cbb23ee4c4ce2b379f85276a324609f9fefbede1ea6e29f1035a77"
     },
     {
       "path": "drawings/a0-boards.en.pdf",
@@ -235,7 +235,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a0-boards.pdf",
-      "sha256": "61deb1b7f6993558c326a3cf79e8547b877924ff8cb9c10bebb1c54fc1c86337"
+      "sha256": "2d8f7c605acc8b62e0962e736f241dc3e0f1914a8434a9b5070e128264f6266a"
     },
     {
       "path": "visual/index.en.html",
@@ -329,7 +329,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "b4ced7152687e02815bedfcfe0b76bd6fcd46852104a78d676c5fc2a7f3a048e"
+      "sha256": "b4c350a709d3b177e0256bafc1f1a7540eb9b9fa7e22ebc99243e109d5ad9b47"
     },
     {
       "path": "assets/media/phase-plaza.jpg",
@@ -338,7 +338,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "a7a92d5b7aaa7f6539cdc9630882c23315c9a5f2b2936daf586282aa32f2d805"
+      "sha256": "43f780b6284134052f785e46471dcf60250375f840465818a5a9030156da2fd5"
     },
     {
       "path": "assets/media/interface-plaza.jpg",
@@ -1210,7 +1210,7 @@
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "1eb3a6ea656555235aeddf58cd8c848de14b00e0679fa30a156fc34940be22d9"
+      "sha256": "90f8142ba52ca9cb0e788f2d9f6ebc95e29d11af4fa31eed1f3bf8206ef81a49"
     },
     {
       "path": "assets/media/d3-shared-workspace.jpg",
