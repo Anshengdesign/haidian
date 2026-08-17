@@ -82,6 +82,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/facade-origin.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/facade-stack.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/facade-stack.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/infill-section.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/infill-section.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/key-areas.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/key-areas.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/keyarea-beijing_ai_origin_community.en.png",
@@ -150,10 +152,14 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/site-overview.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/spine-section.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/spine-section.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/stitch-anchor-cards.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/stitch-anchor-cards.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/transmission-map.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/transmission-map.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/vision-kpis.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/vision-kpis.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/wayfinding-system.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/wayfinding-system.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-bluegreen.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-bluegreen.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/zoning-character.en.png",
@@ -210,7 +216,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 34792661,
+      "total_bytes": 35571866,
       "maintainer_bypass": false
     },
     "stderr": ""

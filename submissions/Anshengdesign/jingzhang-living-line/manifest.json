@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "53848f89a794d8848f31f3bc4d27293b0a4c71a28d00545ae70b7d346a14d501"
+      "sha256": "d1daf9065198e43f666ad42704bb9ccaba8ee89ae74e0dd9b2c3a408de80a385"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "39968aaad64c6608c39bafc568209fc020946925dd8a984a608cb99fc52be2c9"
+      "sha256": "b5497a1548307ead4178e444380a3937b64b8e015c293496fc2c4f7fe9bcdee1"
     },
     {
       "path": "compliance_matrix.json",
@@ -100,14 +100,14 @@
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "d0a46c08ab595e30567fe76d3b8acaa2c449024a387e9b5bcb7817592d84b4a8"
+      "sha256": "ee5d005b2d1799b9e0df561abb666e56207c35c411e4e172fec9e66801d6947a"
     },
     {
       "path": "drawings/a0-boards.pdf",
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "81fe9ebe2962cf41e85725ecf0bd4288c1c4a7acd66502d04790d202558ccb90"
+      "sha256": "12361115980be6490123283f9f2467a19430f6c5f429494d865e896edaecba2d"
     },
     {
       "path": "visual/index.html",
@@ -227,7 +227,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a3-booklet.pdf",
-      "sha256": "1f02070f770b15a883e3237ca16e6a4df8618cd3811c72d2c5c4637f5473e24c"
+      "sha256": "67af843b6b06b7392e9271561746396acbfe00730c6b8e530ae987fbaeed5fb5"
     },
     {
       "path": "drawings/a0-boards.en.pdf",
@@ -235,7 +235,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a0-boards.pdf",
-      "sha256": "bf6015f1b6d15c809c591b49b9097827cc0e925f3b5c3755ef37a8928bd85b71"
+      "sha256": "fcf71bae12349b3596fef64db8a1d018b5070039c9adb06956bc61088e906423"
     },
     {
       "path": "visual/index.en.html",
@@ -1308,6 +1308,51 @@
       "language": "en",
       "sha256": "6017ea94452effc2aa1ab7ce55f173f64356d69e6b0a6ac537dc02ac178238e1",
       "translation_of": "assets/figures/node-design-origin.png"
+    },
+    {
+      "path": "assets/figures/stitch-anchor-cards.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "0d22d1a8472a8abfb651f8c2082e9d8501cc80aa14162eefe193a3a7edbb2323"
+    },
+    {
+      "path": "assets/figures/stitch-anchor-cards.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "a8cfaf17adfe2b1c6e86c1655433d672a8352d8b195b6e70eb7e8638986be2b3",
+      "translation_of": "assets/figures/stitch-anchor-cards.png"
+    },
+    {
+      "path": "assets/figures/infill-section.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "432c87f466fe819b97abeb8335206237dc7c7b381c9f002ed8633526c5192edf"
+    },
+    {
+      "path": "assets/figures/infill-section.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "03c804942decc8556b0caaa733b37c1222856251325444be3be00505632da2c9",
+      "translation_of": "assets/figures/infill-section.png"
+    },
+    {
+      "path": "assets/figures/wayfinding-system.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "57fe111fbdb340e9680478549e0341c73838ed0f51d8e2675a15ec1fb6c77721"
+    },
+    {
+      "path": "assets/figures/wayfinding-system.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "a7700b22bd7789d68bbadfd199713ca1bed8506cb0f32633e0120cedca1e246a",
+      "translation_of": "assets/figures/wayfinding-system.png"
     }
   ],
   "validation_claim": {
