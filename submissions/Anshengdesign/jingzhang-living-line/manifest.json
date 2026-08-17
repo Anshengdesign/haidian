@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "017a60156ccd5eb6362e49cac22dba7b814a547030f8bb6a8f0aab436f3793c5"
+      "sha256": "311ad71631bc8aeff2748d9d310fd8b31434b2cf8ad955b5388ad694bd3b6c92"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "e57c1e63f236fb2754bfe1689111035c3a5f8cf6985bac9770d78fc4f9b26baf"
+      "sha256": "ee070eb3518ec689d1db9cf310a1512984120568300a9cc8c16e211bdcc021fc"
     },
     {
       "path": "compliance_matrix.json",
@@ -100,14 +100,14 @@
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "43b4703980d4c8d960b74e1c020cab8edd316d935c258275065cc30ebabf8a01"
+      "sha256": "58c23cda249bdb7866e0db1fe4cbe04d8e15d13335f685ea2339ebe26791b634"
     },
     {
       "path": "drawings/a0-boards.pdf",
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "b6d665c5f7e28e32ca66177adbf20ae19adca71517e3ce19020148226d18a36b"
+      "sha256": "79269732a2a1e935f4ea1bde6a32642635242ce9696c8ed6f4a3d2f3445d07db"
     },
     {
       "path": "visual/index.html",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "dc48c43572360bf10f76d6afc0522a66e01479d0a1303c7cfde371ce5e781c6f"
+      "sha256": "05eb27039f99001b315313787cc4dae548944d426d1a18e9bc4a9f59cf7536c1"
     },
     {
       "path": "report/proposal.en.html",
@@ -227,7 +227,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a3-booklet.pdf",
-      "sha256": "c6bff5e892fdc3b7ad07ecad5f4b7fe11bace7c8c4b4aaa840b029f50ca750ff"
+      "sha256": "4045723a6d41e21331609e833bfd9d0a7a1970840cce76e57a5114f33e20fd8b"
     },
     {
       "path": "drawings/a0-boards.en.pdf",
@@ -235,7 +235,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a0-boards.pdf",
-      "sha256": "d3aff4cad3fa27b95f0fa8d3dc504dc54d225b092953d629954e4e35457b51ec"
+      "sha256": "a53980d2dabdbef945318fcc1a9b3b7d71d9598bdb3e96614ca531ca490e1b1d"
     },
     {
       "path": "visual/index.en.html",
