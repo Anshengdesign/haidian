@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "90f4322db868c4471096f67be9756824d0f862fbf8c96c537113ecea2ec347a7"
+      "sha256": "3a7cd3fa5bb3ecad07a55339f72a8e761f497e5bbc6b1b4813efb57aa17f968e"
     },
     {
       "path": "compliance_matrix.json",
@@ -100,14 +100,14 @@
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "aa1e8cdb6d5760142ebd33ee4e2e6d51cec7e187f202874c286763e4534ec3a2"
+      "sha256": "8ef35b5b5590996b8c0aecf4ea4742dd4027e663b823626d7b4981d8a81918bd"
     },
     {
       "path": "drawings/a0-boards.pdf",
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "175c6af957945408de1d0c76c8dc96d78599d9d2760d50041370bbf2d9556c31"
+      "sha256": "8eddcc66d71c9d3c96cc844518054847d2441c62c84c1d8aed9785247f522549"
     },
     {
       "path": "visual/index.html",
@@ -227,7 +227,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a3-booklet.pdf",
-      "sha256": "68445c37793d83aff0d2695be09e83d637a66258c09811f57a167195932a5e82"
+      "sha256": "8a58528a971e554eb5b6111dfddb6089a5e29c47b9f929cc95c77c9ba8cff11c"
     },
     {
       "path": "drawings/a0-boards.en.pdf",
@@ -235,7 +235,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a0-boards.pdf",
-      "sha256": "b269a292caa0b03a85dd25cee97f997ab898fe6728e1d657121b94b974668ba7"
+      "sha256": "bd2703df3498feac8d6f13ee46798c0bed65f1df1a3ee675ac5f326de6ba3696"
     },
     {
       "path": "visual/index.en.html",
@@ -338,7 +338,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "7d2f48499a655f4e6b7061301c1b527454550d70bbdad25e20ef086b79c7ea33"
+      "sha256": "5c9c1564c3486880112d03b323b0947682529c82fbddfc08a0f98f8353cf42aa"
     },
     {
       "path": "assets/media/interface-plaza.jpg",
@@ -347,7 +347,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "acd5f6652a2bff13f276da30b43f5efc7abe136fea992743e3041172887a35de"
+      "sha256": "2d548695e21bb09bcbfe7f8fe1f083dcfc871d6aaf96fe1b5be101a126c53ac1"
     },
     {
       "path": "assets/figures/c8-c9-c10.en.png",
@@ -911,7 +911,7 @@
       "role": "media_poster",
       "required": false,
       "language": "neutral",
-      "sha256": "a787495ac2f2986fa567b22a016fdac22316916f4238a4408f2f68f9e04b3f66"
+      "sha256": "96b7f0e8bee7eb215e60cddb8bfd82f4bb9c396a81d11ae0ee743d0352be81e7"
     },
     {
       "path": "assets/figures/vision-kpis.png",
@@ -1203,21 +1203,21 @@
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "f28385f90de954f899a7bce1ac833f58c5f8ca9d5b809e1d6139a57a68090bcb"
+      "sha256": "06bb1b5f4c28655f15b42a8c83584f6abf44259bf4238d3d2daa08f06857dff0"
     },
     {
       "path": "assets/media/d2-phase-plaza-day.jpg",
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "333d4258b829be3e146cb30a22a241e445512509625cf1ddc4c38db8aa3e38fc"
+      "sha256": "e0517ef6b4d271a58bce358c7bd77e9055827a58dfd37425b1e02e6df42d4690"
     },
     {
       "path": "assets/media/d3-shared-workspace.jpg",
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "b97ae3b089e9216f532ea120c2a3a799a7dda62871817e606b989ac429884f4d"
+      "sha256": "8167cb38b3b17eff7f114ddd1c981b6492e0add9ff05e1792f1485a2a5bb4028"
     },
     {
       "path": "assets/figures/c35-finance.png",
