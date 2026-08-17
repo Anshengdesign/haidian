@@ -177,6 +177,8 @@ Functional deviation (c8) five deficit categories: finance −63%, research −4
 
 ![Three-areas × two-wings synergy loop: task-book roles × approved-plan alignment × conceptual sections](assets/figures/wing-coordination.en.png)
 
+**Reconciliation with the approved plan's scale ledger (official 2035 base)**: the plan sets ~23.693M m² building scale, ~364,000 residents, and facility ledgers (298 public services / 37 transport / 62 municipal / 36 safety) by 2035. Our new build of 446k m² is only **1.9%** of the ledger — the official denominator of "minimal intervention, systemic phase change". Jobs-housing check: 364k residents against our employment Fl band (181k–1.19M m²) as a conceptual reconciliation caliber; 178k m² talent apartments ≈ 4,800–7,100 resident increment (25–37 m²/person conceptual band, not a commitment). Facility infill targets the ledger's gaps (finance/medical/research); point-by-point reconciliation after official facility data arrive.
+
 **Alignment with the approved plan's 9 dominant functional zones**:
 
 | Plan zone | Our take-up | Location | Keep/retrofit/new |
