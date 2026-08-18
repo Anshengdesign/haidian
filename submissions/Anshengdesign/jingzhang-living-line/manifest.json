@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "311ad71631bc8aeff2748d9d310fd8b31434b2cf8ad955b5388ad694bd3b6c92"
+      "sha256": "5a1ff90a7b14eb6d94d4b919c08a3dbefe8e73ec88d03328dd44fc09df6781f4"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "ee070eb3518ec689d1db9cf310a1512984120568300a9cc8c16e211bdcc021fc"
+      "sha256": "4a7455b642006024380e002e0afac98a4b9f7060d4f3f4134dbbf52dbd553639"
     },
     {
       "path": "compliance_matrix.json",
@@ -100,14 +100,14 @@
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "58c23cda249bdb7866e0db1fe4cbe04d8e15d13335f685ea2339ebe26791b634"
+      "sha256": "7b15f41b7d8f89633774ae6293fbca32fe3fd69522bce16c47ffc41848f4edf7"
     },
     {
       "path": "drawings/a0-boards.pdf",
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "79269732a2a1e935f4ea1bde6a32642635242ce9696c8ed6f4a3d2f3445d07db"
+      "sha256": "158fc4daef80692ecbc40e1dbf5179fe85bf7aafefa4a7921ad9ccb1d1e717d0"
     },
     {
       "path": "visual/index.html",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "05eb27039f99001b315313787cc4dae548944d426d1a18e9bc4a9f59cf7536c1"
+      "sha256": "796f5f34a319162182256f08f053b1c100832f503ab89560f501b676207d5e79"
     },
     {
       "path": "report/proposal.en.html",
@@ -227,7 +227,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a3-booklet.pdf",
-      "sha256": "4045723a6d41e21331609e833bfd9d0a7a1970840cce76e57a5114f33e20fd8b"
+      "sha256": "964aee63d950c984d4b55b921cafb3eda53e35a0edc1ff2ce85bf7dd0785adf3"
     },
     {
       "path": "drawings/a0-boards.en.pdf",
@@ -235,7 +235,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a0-boards.pdf",
-      "sha256": "a53980d2dabdbef945318fcc1a9b3b7d71d9598bdb3e96614ca531ca490e1b1d"
+      "sha256": "cda9462fa5cf6abe309c62265445501dadf52d8fd253e9b7db7120b8cd65f1ed"
     },
     {
       "path": "visual/index.en.html",
@@ -1053,14 +1053,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "9d6deb3378239d43b144bb352253d2728b6727632dbbd19cbfdf79db948a96dc"
+      "sha256": "48adb34a765cf889bd44a20846b2eb7d147937b5b05f713dfb2db23d782e7da3"
     },
     {
       "path": "assets/figures/landscape-phase.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "9c4e9d59f36e0dba8b87ab77c04cb0ebc97d26c02d17c1604b40aa75f9f74859",
+      "sha256": "32fa7df36dca8842931c8e9e2a1a35f712de6ef2b09422be22052507ce236262",
       "translation_of": "assets/figures/landscape-phase.png"
     },
     {
@@ -1068,14 +1068,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "ff993db5a8200426e253ebf0debedde046de630fc9c21317f6426fde4a03b066"
+      "sha256": "db459c36240d10f14f19792da3966d66081bfa24e2cae53b320d6841cc015997"
     },
     {
       "path": "assets/figures/landscape-origin.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "3f75dd81c14ecf18ce7857235a366f228cc66785e7bda9b7f1d7c9e4c2876e68",
+      "sha256": "66464b460a677fe950e3a8ab84a4012a24de52dd26fc22f829e79c3c7e2f75de",
       "translation_of": "assets/figures/landscape-origin.png"
     },
     {
@@ -1083,14 +1083,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "0bde637e4d6e5adaaa7bce110c6a62a2161099a54970fd752379e3faaf4c6cd4"
+      "sha256": "2911193c3cbdeef323e92ff7e049bfe2d53614f2a04523def170a7ea5bf6f7dc"
     },
     {
       "path": "assets/figures/landscape-front.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "a39a029067e9efd426f0e7cfe9fffc41c43b0fc14c849aae2278e79aa4f8c8d4",
+      "sha256": "275263fb18129880f123768a55f4c9838fd72e10fe4dedba30b6c4c79e0fdc8c",
       "translation_of": "assets/figures/landscape-front.png"
     },
     {

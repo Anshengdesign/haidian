@@ -119,6 +119,8 @@ The city's masters are seven kinds of people: AI developers, researchers, reside
 
 ## Three-Level Scope Framework (Diagnosis ring)
 
+**Scope hierarchy vs the approved plan**: the approved HD00-1601 block plan covers ≈1,668.2 ha (9 blocks across Zhongguancun / Beixiaguan / Beitaipingzhuang sub-districts) ⊃ our overall design scope of 11.4 km² (≈1,140 ha — the core segment of the plan's "one belt", the Jing-Zhang innovation exchange belt); our key-area scope (368.4 ha) connects to the plan's "two hearts" (Wudaokou / Dazhongsi). The plan is the upper-level basis; this proposal deepens its innovation-belt core segment.
+
 11.4 km² overall / three key areas / corridor spine — three-level nesting (scale nesting: overall→block→unit→section, four levels of self-similarity, one index at different resolutions). The 91 400m cells are this plan's computational cells [depth:scale_nesting]. Area recomputation: EPSG:4548 total 11.4128M m² vs announced 11.40M m², deviation 0.11% [metric:site_area]. The purpose of scale nesting is that the same EI index remains mutually compatible across the four scales — one formula, different resolutions — avoiding "scale fracture" (CASA Paper 155 discipline).
 
 **Ring conclusion →** Scale nesting set; the Diagnosis ring closes. The Mechanism ring explains "why this treatment".
@@ -243,6 +245,8 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 
 ---
 
+
+**Three node design intents (real-object anchored, conceptual)**: Dazhongsi — the Lanjinglijia home-furnishing plaza (31,673 m², real stock) as the flagship retrofit: keep the big-box skeleton, add a ground-floor "light interface" of gallery/workshop windows, with the ancient temple kept as a pure sightline backdrop; Zhongzhiyuan — the 768 Creative Park (8,735 m² heritage factory) as the Quantum Garden retrofit core: industrial heritage retained, 120m modules inserted, thousand-grass waves and seed-array landscape; Origin — the campus-edge streets (BUAA/BLCU real boundaries): a see-through cultural gallery wall (safety line kept), paper-plane pavilion (aero-heritage symbol), and a water/hedge break section. All concepts only; statutory values pending official data.
 ## AI Innovation Ecosystem, Talent Profile & AI+ Scenarios (Prescription ring)
 
 ![Ground-floor open shared-workspace rendering (AI concept intent, not implementation)](assets/media/d3-shared-workspace.jpg)
