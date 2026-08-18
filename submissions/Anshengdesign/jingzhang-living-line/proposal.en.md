@@ -217,6 +217,24 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 | Origin Community | lacks medical/research | medical/research support, origin segment | same (adaptive seed) |
 | Dazhongsi | lacks finance/research | finance/research, frontage segment | same |
 
+**Three-area quantified panels (POI evidence + check-up cards)**:
+
+![Zhongzhiyuan · full-stack segment quantified panel](assets/figures/keyarea-zhongzhiyuan_ai_acceleration_area.en.png)
+
+![Origin Community · origination segment quantified panel](assets/figures/keyarea-beijing_ai_origin_community.en.png)
+
+![Dazhongsi · interface segment quantified panel](assets/figures/keyarea-dazhongsi_ai_industry_cluster.en.png)
+
+**Node plans (paired 1:1 with the renders below, section indices A-A' / B-B' / C-C')**:
+
+![Zhongzhiyuan · full-stack segment node plan A-A'](assets/figures/plan-zhongzhiyuan_ai_acceleration_area.en.png)
+
+![Origin · near-campus innovation street node plan B-B'](assets/figures/plan-beijing_ai_origin_community.en.png)
+
+![Dazhongsi · interface segment node plan C-C'](assets/figures/plan-dazhongsi_ai_industry_cluster.en.png)
+
+![Dazhongsi four-quadrant stitching zoom](assets/figures/dazhongsi-quadrant-zoom.en.png)
+
 **Adaptive seed on the map**: near-zero-capacity cells → "new-build" color, absorbable cells → "backfill" color, over-capacity cells → "dispose" color (three-area boards use this coloring). Scale module fields: extent (120×120m block) / key spatial scales (3.2m walkway, 40×40m phase-change plaza) / public-path floor (normal paths remain usable when AI is removed) / HOLD condition.
 
 **Ring conclusion →** Three-area prescriptions are implementable with stop conditions. The Verification ring proves whether they "work".
@@ -247,6 +265,22 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 
 
 **Three node design intents (real-object anchored, conceptual)**: Dazhongsi — the Lanjinglijia home-furnishing plaza (31,673 m², real stock) as the flagship retrofit: keep the big-box skeleton, add a ground-floor "light interface" of gallery/workshop windows, with the ancient temple kept as a pure sightline backdrop; Zhongzhiyuan — the 768 Creative Park (8,735 m² heritage factory) as the Quantum Garden retrofit core: industrial heritage retained, 120m modules inserted, thousand-grass waves and seed-array landscape; Origin — the campus-edge streets (BUAA/BLCU real boundaries): a see-through cultural gallery wall (safety line kept), paper-plane pavilion (aero-heritage symbol), and a water/hedge break section. All concepts only; statutory values pending official data.
+**Three node design-intent figures (real-object anchored, with section indices)**:
+
+![Dazhongsi node · Lanjinglijia flagship retrofit: real stock, light interface, temple sightline](assets/figures/node-design-dazhongsi.en.png)
+
+![Zhongzhiyuan node · 768 Quantum Garden retrofit core: heritage + 120m modules](assets/figures/node-design-zhongzhiyuan.en.png)
+
+![Origin node · campus-edge streets: gallery wall + paper-plane pavilion](assets/figures/node-design-origin.en.png)
+
+**Three-area renders (AI concept intent, not implementation)**:
+
+![Zhongzhiyuan · Quantum Garden full-stack district (AI concept)](assets/media/stack-testband.jpg)
+
+![Origin · near-campus innovation street (AI concept)](assets/media/origin-community.jpg)
+
+![Dazhongsi · interface night (AI concept)](assets/media/dazhongsi-front.jpg)
+
 ## AI Innovation Ecosystem, Talent Profile & AI+ Scenarios (Prescription ring)
 
 ![Ground-floor open shared-workspace rendering (AI concept intent, not implementation)](assets/media/d3-shared-workspace.jpg)
