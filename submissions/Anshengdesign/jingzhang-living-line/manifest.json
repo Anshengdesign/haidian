@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "13545053e2503d04ab7761bd5a5a138140321daec70a62b85ebfa23b584b10ee"
+      "sha256": "667fd31e0ae788825f175a32e3a8f2d6204f842fa248494fd12a69b4edf0e89f"
     },
     {
       "path": "compliance_matrix.json",
@@ -114,7 +114,7 @@
       "role": "visualization",
       "required": true,
       "language": "zh",
-      "sha256": "b7a3ef0bba9dde82854b87fa5e31a7afdcb2909f4c7cb96dc26a22502d59a20b"
+      "sha256": "cf5cad81514639dac3be1bd726648f2168e7151a2b066079499bd03195ebfbca"
     },
     {
       "path": "assets/figures/key-areas.png",
@@ -243,7 +243,7 @@
       "required": true,
       "language": "en",
       "translation_of": "visual/index.html",
-      "sha256": "21d1a790388a80186db1a44eb8d6c4f1c98ab0d135e26bf79c0b7911f18a4ef2"
+      "sha256": "87df6559fcb5f5832bfe485befcf03b1e11811e486b4d6000794445828191960"
     },
     {
       "path": "assets/figures/key-areas.en.png",
@@ -1053,14 +1053,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "fd3d96c6a252aa53b3e0f9d9b14e9b91069c3c31372be4b10fe6abe254f1fdb1"
+      "sha256": "6abd58c905d880c3fc14bf16a9a00ec137550792f5a4c8c11c5d381c7b10be07"
     },
     {
       "path": "assets/figures/landscape-phase.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "38c8bd256fef0245a92fcb305210eae6fceb21e7927d2b7c0d1807e0a007ad86",
+      "sha256": "449ed6f5c4ee14b611d228fb8c3b226b27d00f02fa0e1a0fb0f151ffa6e1980b",
       "translation_of": "assets/figures/landscape-phase.png"
     },
     {
@@ -1068,14 +1068,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "e4bd5adbd5a845c15e490c5335a14961d190c69cdc7d62b4ab824e6a9465de03"
+      "sha256": "8ece3126b448b73b31c251c28196d9e1ad89463883159c61b84d04ba3387faa5"
     },
     {
       "path": "assets/figures/landscape-origin.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "4ce3945899720327e1c9a626cc17a32e52a6c14dc552cca215654d91c2d979ee",
+      "sha256": "f9f7e3433d85f91bc6dc1425baf0b13c7aa5a3afcc1ccad5efd12facee632b16",
       "translation_of": "assets/figures/landscape-origin.png"
     },
     {
@@ -1083,14 +1083,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "3248f9021913be2b3c800495fdb7350cf90b1f406c5605fc7cbb046bca6cc9bb"
+      "sha256": "e724002a5ea61696e4ac78f90e46ffe0fee6cfb64f92a79f62a50fa426dda2a8"
     },
     {
       "path": "assets/figures/landscape-front.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "a6b32a59a77a20af8b6527d3fbcf6a54ebac28c75f9be911356bb8f335dce815",
+      "sha256": "01db31ace5d0153e458e4526fc90933cbaee165f85369b2e7f6150b46c7aed0e",
       "translation_of": "assets/figures/landscape-front.png"
     },
     {
@@ -1098,14 +1098,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "afa2152dfa37a8f69b861052c728e225467ab6b2efc9dd8d6c831faadaed91c9"
+      "sha256": "3190d60ebe37750c1e8c5db7afef9b188fb61914f27df9409932ce66caab009b"
     },
     {
       "path": "assets/figures/facade-stack.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "810ca72c01c4229f9bc0d41e3fc9506630cbb681a4b3602fbc6c8e6333b545b2",
+      "sha256": "4bed577a7054e6a8efb27e5d8bb11e20a944004517a10186cd5f8bb9ba2aad40",
       "translation_of": "assets/figures/facade-stack.png"
     },
     {
@@ -1113,14 +1113,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "dde3d7da1b4000fabc99ebccf3c6fcb7afb3ec376d3161d4d50ce8eefaf68dba"
+      "sha256": "36c3ed31c9b8932d7ed0ac9aa320ecf9b490044dff8bc783f5340ba89185da28"
     },
     {
       "path": "assets/figures/facade-origin.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "3d17c05468311cdaa6d170966bb2f5940915d47b8d2df280acfbb4f61e9a7a11",
+      "sha256": "ffc26e67f027a4bf93aa7ea022bedd221ec387c4c4c7c1ce290a8e7bc609977e",
       "translation_of": "assets/figures/facade-origin.png"
     },
     {
@@ -1128,14 +1128,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "60d056e053dad4d92328a6bcfe8e17f74dc978664dca919db25edac5c09d3453"
+      "sha256": "aa4025bf73b34bf57b9148771c23b4f012a2339d679c8345ae5cf204faa1e8af"
     },
     {
       "path": "assets/figures/facade-front.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "a87756586b4a2a6d3417cabbfc29df5c89c8325c65b6e3b17fd6c4b5103c186f",
+      "sha256": "da3c82c21f03c5eb1e7bb8276c5a00a8dac2d97bbc5cef10bde166939dd9a16d",
       "translation_of": "assets/figures/facade-front.png"
     },
     {
@@ -1143,14 +1143,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "418097f1072ecac45405b60c84b58995d269e7da4fe5c0807f66d084796482ac"
+      "sha256": "540bff78f6d3b587d8fd78bbc7f616ddf33ec280084215c181ba7b57cf3520d3"
     },
     {
       "path": "assets/figures/night-spine.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "328608499a7c52268b33e9407253250476be7e0e9f08e8230f1a71a15e23917d",
+      "sha256": "0dabcf454032fde5045c5efa6b15af554fdcaf30b1782bbb53cbc3e73c8b0056",
       "translation_of": "assets/figures/night-spine.png"
     },
     {
@@ -1158,14 +1158,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "42254dae6f5e70fdf8cb2b08305f447965afebe634376c1ce113315339295d09"
+      "sha256": "1580e30b6b2b899de48b58bba3e1c33f91b6dd5ccaa8b979a469c07ae51b3992"
     },
     {
       "path": "assets/figures/night-front.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "1fe4cb5752e7984af68e0264670480b300a7fae8d74266aa37f5df60b8e90a75",
+      "sha256": "1b388422ef2bb288d5c7bd33129c6da2ed8303cb29ee9ae2fc50349a03a3ba73",
       "translation_of": "assets/figures/night-front.png"
     },
     {
