@@ -87,15 +87,13 @@ iteration: "v2.0"
 
 ![AI 朝圣地标体系：三处朝圣地标与朝圣动线（沿京张铁路遗产线位串联）](assets/figures/pilgrimage-landmarks.png)
 
-![朝圣地标① 清华园车站·原点 — 百年站房保留展陈 + 开发者名墙对位 + 铁轨意象铺装（可实现建设级细节，无悬浮装置）](assets/media/origin-plaza.jpg)
-
-![千鳞树阵·鳞单元设计：双面铝鳞构造/风动机制剖面/阵列平面（先设计后渲染，概念设计图）](assets/figures/scale-grove-design.png)
+![朝圣地标① 清华园车站·原点 — 百年站房保留展陈 + 时间轴名墙（平嵌枕木=时间戳+导光缝+不锈钢嵌字，非墓碑场）+ 铁轨意象铺装（可实现建设级细节）](assets/media/origin-plaza.jpg)
 
 ![千鳞树阵·鳞单元设计：双面铝鳞构造/风动机制剖面/阵列平面（先设计后渲染，概念设计图）](assets/figures/scale-grove-design.png)
 
 ![朝圣地标② 五道口·相变广场 — 千鳞树阵：风过鳞翻如椋鸟群舞（物理涌现，非光柱非屏幕）+ λ 信息条](assets/media/phase-plaza.jpg)
 
-![朝圣地标③ 大钟寺·界面广场 — 涌现之钟为广场新建光装置、与古钟（不可移动历史建筑）仅视线对景不并置](assets/media/interface-plaza.jpg)
+![朝圣地标③ 大钟寺·界面广场 — 声学草坡（踏步即音阶）+ 铜线刻钟平嵌地面 + 古寺剪影仅视线对景不并置（无光装置、无灯带）](assets/media/interface-plaza.jpg)
 
 ![标识系统：朝圣动线 + 导视三件套 + 无障碍导览（信息入口纪律）](assets/figures/wayfinding-system.png)
 
@@ -276,7 +274,7 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ![众智园·花园测试带效果图（AI 概念意向，非实施图）— 对应 A-A' 平面：带设备来的人在花园街区做有边界测试](assets/media/stack-testband.jpg)
 
-![原点·策源段 节点平面 B-B'（含环校创新街 Vn、开发者名墙对景、剖面索引）](assets/figures/plan-beijing_ai_origin_community.png)
+![原点·策源段 节点平面 B-B'（含环校创新街 Vn、时间轴名墙对景、剖面索引）](assets/figures/plan-beijing_ai_origin_community.png)
 
 ![原点·近校创新街效果图（AI 概念意向，非实施图）— 对应 B-B' 平面：接住从学校出来的学生和创业者](assets/media/origin-community.jpg)
 
