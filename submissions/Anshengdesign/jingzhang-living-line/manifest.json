@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "d82ad832972fef6bf2c603179036a58a62e5b3af70694f4e2d557a99ebf634ba"
+      "sha256": "55082f527eb11059010fd013beabcf631f46fe7825b7438089f3645df1de1ea7"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "7ead656e666ed659313cd7fbae348c644744b71bf1eee21ccd9bab4a5be1cad9"
+      "sha256": "54403163f0ab6306993cc231ddb0087854b335a8417e084412bf913e5a5ad186"
     },
     {
       "path": "compliance_matrix.json",
@@ -100,14 +100,14 @@
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "008b5e8d89446277696fc22b4c702399758340977135e36875e51a8708145869"
+      "sha256": "4c800f1b5d3250b00f4bb6973309e6e5690e89272f43910d875cc18444096e78"
     },
     {
       "path": "drawings/a0-boards.pdf",
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "c2d55049cd6e93d042f847dd275b379044c81aa1e66a64f1f6a070550bd17e69"
+      "sha256": "65c33f63d4ce10cd2cc4f4a1654baf253f980683b6efc5416c913843551a8d24"
     },
     {
       "path": "visual/index.html",
@@ -227,7 +227,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a3-booklet.pdf",
-      "sha256": "0a5e1267fe02de7dcf13b8f9475b2186b1f6fbdc855395f5f532494e5d47483e"
+      "sha256": "346ba4963e5876bff8d0c2f3dd07a2603a4beecdd165b870c76d2001485c176f"
     },
     {
       "path": "drawings/a0-boards.en.pdf",
@@ -235,7 +235,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a0-boards.pdf",
-      "sha256": "a683658d06aecb74dd7a331a299b90aa8cd9e463db34b6fbc941d7d01c6fd416"
+      "sha256": "9a5b4dd7f02203f7d6529d21cde050ac1af1960273a70d4f64527e5f2d844127"
     },
     {
       "path": "visual/index.en.html",
@@ -1398,6 +1398,21 @@
       "language": "en",
       "sha256": "223326da863ae24d9472a455db188f76d9a7d84f660104cdd325fad87ec99eed",
       "translation_of": "assets/figures/campus-wall-design.png"
+    },
+    {
+      "path": "assets/figures/scale-grove-design.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "fdeff19df925ca43be42e0ad8e3b8fcfa136ff3d1b693270c629aff336b1928d"
+    },
+    {
+      "path": "assets/figures/scale-grove-design.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "d6ef43a97abb084174fbbf8a94f4adcfccdf18cce25ef604ee115ef0779e96c6",
+      "translation_of": "assets/figures/scale-grove-design.png"
     }
   ],
   "validation_claim": {

@@ -146,6 +146,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/qg-garden-design.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/scale-drilldown.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/scale-drilldown.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/scale-grove-design.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/scale-grove-design.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/section-beijing_ai_origin_community.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/section-beijing_ai_origin_community.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/section-dazhongsi_ai_industry_cluster.en.png",
@@ -222,7 +224,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 35756962,
+      "total_bytes": 35875541,
       "maintainer_bypass": false
     },
     "stderr": ""

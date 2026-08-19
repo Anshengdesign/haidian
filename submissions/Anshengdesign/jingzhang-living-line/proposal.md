@@ -89,6 +89,8 @@ iteration: "v2.0"
 
 ![朝圣地标① 清华园车站·原点 — 百年站房保留展陈 + 开发者名墙对位 + 铁轨意象铺装（可实现建设级细节，无悬浮装置）](assets/media/origin-plaza.jpg)
 
+![千鳞树阵·鳞单元设计：双面铝鳞构造/风动机制剖面/阵列平面（先设计后渲染，概念设计图）](assets/figures/scale-grove-design.png)
+
 ![朝圣地标② 五道口·相变广场 — λ 互动光场装置（光柱随人流形成相变波前，非电子屏）](assets/media/phase-plaza.jpg)
 
 ![朝圣地标③ 大钟寺·界面广场 — 涌现之钟为广场新建光装置、与古钟（不可移动历史建筑）仅视线对景不并置](assets/media/interface-plaza.jpg)
