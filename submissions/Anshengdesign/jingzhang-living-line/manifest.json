@@ -56,13 +56,13 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "2ba646ccbdb0151ce70bbb2fef94a231f64d87a74110c91efe6410eec053656c"
+      "sha256": "9ccbb0e824d1cdbe0b791df8dd08ac8757d73db7972c52a2ff3c57750c565a16"
     },
     {
       "path": "compliance_matrix.json",
       "role": "compliance_matrix",
       "required": true,
-      "sha256": "109caf908540f92c0f5f8d5873a5b2efee98408c979bc51f64b9cce4ea752b07"
+      "sha256": "69f770ac77d61515fd91fb5a26ef2a11857d944c06074cbff7b9266108f39195"
     },
     {
       "path": "standard_matrix.json",
