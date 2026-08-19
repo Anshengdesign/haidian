@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "310f8921fd0a9cfeb4ef2ed9f757219475ba688063677af8e0d409624475e259"
+      "sha256": "1b93eb5aae55e616804d6a32f18d722f2db3b67b2b1f5b3396f966374610e407"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "029fa53d8f20ba721afbbdb8941bd839fe25f3c60f212b7bb819469b61d2af21"
+      "sha256": "ab7a42aed17a9028c9d24db09ed757fd874dbb6f751756eae9b14a6c2e902901"
     },
     {
       "path": "compliance_matrix.json",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "2e52c23306ef37d78ee63596d2335f1c46f2e0ee73bf0e341a04c95ac72bbff5"
+      "sha256": "702733feab6b3e7f40a9a060d0a077e64764e208aa3bee458770dd5d53760509"
     },
     {
       "path": "report/proposal.en.html",
@@ -329,7 +329,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "3cc30cf863a82b0af41a4fa5baf90f82ee893d07a2247f1a88f7e99475bc1fdd"
+      "sha256": "3c62222cc533b2e4f985aca33cd5f054c7896d5c4d4d2df3e6ab16df0b199e67"
     },
     {
       "path": "assets/media/phase-plaza.jpg",
@@ -911,7 +911,7 @@
       "role": "media_poster",
       "required": false,
       "language": "neutral",
-      "sha256": "b63730e0219c796c7c7953b26bc64ffcdc411c7c902afb379938caf234d4eb36"
+      "sha256": "75a182c176f20e1208d6e9979b61f8591374a7f87e4d213c9869550cc1316247"
     },
     {
       "path": "assets/figures/vision-kpis.png",
@@ -1203,7 +1203,7 @@
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "7ebdf2cdd706578e45fdd73a5c5bb38f8756fdba401bf62ee5ff3c38edfa2c63"
+      "sha256": "1e333de997737e30b41e32819af0c2d4bbf1a67fa7e0d3f9daebcaf1b8af84c3"
     },
     {
       "path": "assets/media/d2-phase-plaza-day.jpg",
@@ -1610,7 +1610,7 @@
       "path": "assets/media/stitch-bridge.jpg",
       "role": "media_poster",
       "required": false,
-      "sha256": "f29e36c18bb6b14b9d7e8e71d0ae6d57cd46ffa34c14db4420a4e29e78fbff84"
+      "sha256": "483d07ce7594f7239c33cdb5f1589d0379dce7ba0196158773e2eca2563c31a6"
     }
   ],
   "validation_claim": {

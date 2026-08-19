@@ -265,10 +265,10 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 |---|---|---|---|
 | Phase Plaza | A breathing silver screen — the wind directs, scales are pixels, the plaza is a theater | pole canopy fills the frame, low upward angle | blue hour: backlit silver canopy + copper rim light |
 | Quantum Garden | An industrial greenhouse of memory — a test garden grows inside the old factory's skeleton | 768 trusses = greenhouse frame, warm interior glow | dusk: cold blue × warm gold |
-| Origin Plaza | A road paved with names — every contributor is one stop on this road | sleeper array gradient, station left open | long autumn-morning shadows |
+| Origin Plaza | A TIME AXIS, not gravestones: flush sleepers = timestamps, glowing seams = circuit traces, alive and growing toward the future | sleepers embedded flush (zero raised) + light seams + steel inlay, sparse near, dense far | morning long shadows; a glowing timeline at night |
 | Interface Plaza | The bell sinks into the ground — the old bell's shadow is the AI bell face | copper bell lines + sound-pipe slope, temple silhouette | blue hour + last daylight |
 | Railside Market | Improvisation in a thousand profiles — no cutting, no drilling, today's stalls assembled | aluminum-profile structure forest | matte aluminum + warm stall lamps |
-| Stitch Bridge | A rib across the traffic — the spine continues over the road | sculptural 3-span steel box girder, backlit silhouette | light trails below |
+| Stitch Bridge | An arc of white light across the traffic — white concrete + stainless steel + glass, the spine glowing in backlight | 3-span white fair-faced concrete box girder + steel railings + glass balustrade | blue dusk backlight: the white bridge glows, light trails below |
 | 1733 Light Interface | Keep the shell, free the inside — the old mall's shell holds the night school's lamps | lit-window rhythm + loft steel showing through | dark facade × warm gold windows |
 
 **Rendering anchoring discipline (written in after boss review)**: every rendering must be bound to a real anchor card (real OSM fabric + coordinates + design placement); unanchored scenes do not enter the package.
