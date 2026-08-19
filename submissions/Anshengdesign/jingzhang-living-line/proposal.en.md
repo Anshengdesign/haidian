@@ -271,6 +271,8 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 
 ![120×120 block module · urban-design development: towers + podium + courtyard + street wall; scale nesting (120m→40m→3.2m); 24m podium along the street + 60–80m towers set back (dual skyline)](assets/figures/block-study.en.png)
 
+![120×120 block module rendering (AI concept intent, not implementation) — an URBAN DESIGN view: 24m podium street wall + mixed ground-floor band, 60–80m towers set back, upper residential floors lighting window by window (two clocks), 40×40 green courtyard](assets/media/block-dusk.jpg)
+
 **Node design concept statements (concept first — one line per node; renderings are concept-driven)**:
 
 | Node | Concept | Form | Atmosphere |
@@ -299,7 +301,7 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 
 ![Railside market development: standard aluminum module system (§2 zero-cutting + §6 Delta Stack) — one module × three rules = stall / canopy / kiosk / bench](assets/figures/market-study.en.png)
 
-![Origin Plaza development: 93.5th-percentile integration = the structural origin (data, not myth); one name per sleeper, density gradient, emptiness before the station](assets/figures/origin-study.en.png)
+![Origin Plaza development: 93.5th-percentile integration = the structural origin (data, not myth); TIME AXIS concept — flush sleepers = timestamps + glowing seams + steel inlay (not a gravestone field), density gradient, emptiness before the station](assets/figures/origin-study.en.png)
 
 ![Interface Plaza development: 20.2% → +70% network transition; sound-pipe steps (emergent sound) + copper bell lines + temple emptiness](assets/figures/interface-study.en.png)
 

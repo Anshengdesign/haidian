@@ -257,7 +257,7 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ![众智园节点 · 768 量子花园改造核：8,735㎡ 老工业厂房 + 120m 模块插入 + 千株草浪](assets/figures/node-design-zhongzhiyuan.png)
 
-![量子花园设计：768 改造核（平面/剖面 A-A'/半悬浮服务亭透视，概念设计图）](assets/figures/qg-garden-design.png)
+![量子花园设计：768 改造核（平面/剖面 A-A'/地面单层服务亭透视，概念设计图）](assets/figures/qg-garden-design.png)
 
 ![原点节点 · 高校边界真实街巷：北航/北语真实校园边界 + 透绿文化展廊围墙 + 纸飞机亭](assets/figures/node-design-origin.png)
 
@@ -326,6 +326,8 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ![120×120 街区模块·城市设计推敲：塔楼+裙房+内院+街道墙；尺度嵌套（120m→40m→3.2m）；裙房 24m 沿街+塔楼 60-80m 退后（天际线双范式）](assets/figures/block-study.png)
 
+![120×120 街区模块效果图（AI 概念意向，非实施图）— 城市设计视角：24m 裙房街道墙+首层功能混合带，60-80m 塔楼退后，顶部居住层逐窗亮起（双时钟），40×40 内院透绿](assets/media/block-dusk.jpg)
+
 **节点设计概念句（设计理念先行——每个节点一句话，效果图由概念驱动）**：
 
 | 节点 | 概念句 | 形式 | 氛围 |
@@ -354,7 +356,7 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ![铁路边市集 推敲：标准铝型材模块系统（§2 零切割+§6 Delta Stack）——同一模块×三种组合规则=亭/摊/棚/座四种形态](assets/figures/market-study.png)
 
-![原点广场 推敲：句法 93.5 百分位=结构原点（数据非传说）；一名字一枕木，密度渐变，站前留空](assets/figures/origin-study.png)
+![原点广场 推敲：句法 93.5 百分位=结构原点（数据非传说）；时间轴概念——平嵌枕木=时间戳+导光缝+不锈钢嵌字（非墓碑场），密度渐变，站前留空](assets/figures/origin-study.png)
 
 ![界面广场 推敲：末梢 20.2%→+70% 的网络相变；声管踏步（声的涌现）+铜线刻钟+古寺留白](assets/figures/interface-study.png)
 
