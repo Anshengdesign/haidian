@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "2a2f90e29844adf3892d73d84dfac889cbb06c520f0b68890d307e4708b0f4ed"
+      "sha256": "9e67748bdaa725ca5e99276c4fcbe4185270862bf681727354e7a58adcdb31d1"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "483f9e83f84647cb2164346575419b445f11c692d3112c0568b94f2fb659d0f1"
+      "sha256": "065d34635a7a7d5a304a417e915688715efdeacd227bce9180ba8b8b8afe0d7c"
     },
     {
       "path": "compliance_matrix.json",
@@ -81,7 +81,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "286fff8d4fbaf855355f7e84161e2303a80ea7561da3c0b0269f6aa68ff7e51e"
+      "sha256": "55424fe1dac23d75799c2dc477c4c29cb17ffb653da97e188f484ad3cb2f6182"
     },
     {
       "path": "report/narrative.md",
@@ -114,7 +114,7 @@
       "role": "visualization",
       "required": true,
       "language": "zh",
-      "sha256": "fe9003f5e4aced0e3ee9c57a88ca25083938854590e3cdc8bc10da4ca0117663"
+      "sha256": "b7a3ef0bba9dde82854b87fa5e31a7afdcb2909f4c7cb96dc26a22502d59a20b"
     },
     {
       "path": "assets/figures/key-areas.png",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "69d4a5052a30d01be1c6559a29e889ff9261f7de9d566261d76e580dd7fabbbc"
+      "sha256": "938d10a479ebef5eb8a4d82713d5022ed39052b486fa6af485faf0db88340a9f"
     },
     {
       "path": "report/proposal.en.html",
@@ -219,7 +219,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "4b38b2479530276438d192b66fd3c1f0122691454f5079e113fc2f2ff6d41bfc"
+      "sha256": "17d952d0131dcf4efa6e311236fd5870973e04ed5805b1e834bd4f0b102b64ad"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -243,7 +243,7 @@
       "required": true,
       "language": "en",
       "translation_of": "visual/index.html",
-      "sha256": "c3ad78e31af59c79da6f4b4c58e5cce86b53ab00ab59d88b236dd1cd40d007fb"
+      "sha256": "21d1a790388a80186db1a44eb8d6c4f1c98ab0d135e26bf79c0b7911f18a4ef2"
     },
     {
       "path": "assets/figures/key-areas.en.png",
@@ -329,7 +329,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "a18892f2d38ac53ac9aa3a9a8e72912b634ebf4c811a173b90b36b064b70e65a"
+      "sha256": "40cd3dc86a3f5d1b4581486ebfcfe05c66e33fac70f819cea6de194e3e96bec7"
     },
     {
       "path": "assets/media/phase-plaza.jpg",
@@ -1203,7 +1203,7 @@
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "7805441ec639be144c9f5ca042cd45f968229ec4b459728d97d4e8a74df770f5"
+      "sha256": "2e31e752a86770745dcdb72ee552d72aa3247714bebcc90fe65814573454ab0e"
     },
     {
       "path": "assets/media/d2-phase-plaza-day.jpg",
@@ -1428,6 +1428,21 @@
       "language": "en",
       "translation_of": "assets/figures/suture-structure.png",
       "sha256": "4aab7bbd10cfa125a5e659fa13ef1fae1ff94b4521258b9525c002b8c6e615bb"
+    },
+    {
+      "path": "assets/figures/spine-rail-embed.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "13c88c6860c7a48e9822f19a4001c72996c4f6b0a2ace42a0c136e1f92546f69"
+    },
+    {
+      "path": "assets/figures/spine-rail-embed.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "translation_of": "assets/figures/spine-rail-embed.png",
+      "sha256": "3f7c144ff7da5830bb31ebb46ad0548b1536f6375c3731c1da8d98affa877932"
     }
   ],
   "validation_claim": {

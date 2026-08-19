@@ -275,7 +275,9 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 
 ![Night design (concept): the spine](assets/figures/night-spine.en.png)
 
-![Spine night rendering (AI concept intent, not implementation)](assets/media/d1-spine-night.jpg)
+![Spine · flush-embedded rail construction design: plan / cross-section / axonometric — rail top = finished paving (0 step), resilient infill between rails, buried sleepers, wildflower bands (Fact F1: real rails & sleepers restored into the landscape, flush paving level, no viaduct)](assets/figures/spine-rail-embed.en.png)
+
+![Spine night rendering (AI concept intent, not implementation) — the railway is expressed by the flush-embed design drawing above; this rendering contains no rail element](assets/media/d1-spine-night.jpg)
 
 ![Night design (concept): Dazhongsi front](assets/figures/night-front.en.png)
 

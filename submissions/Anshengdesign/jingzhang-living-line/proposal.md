@@ -330,7 +330,9 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ![夜景设计（概念）：主脊夜景](assets/figures/night-spine.png)
 
-![主脊夜景效果图（AI 概念意向，非实施图）](assets/media/d1-spine-night.jpg)
+![主脊·平嵌铁轨构造设计：平面/横剖面/轴测——轨顶=铺装完成面（0 高差）、轨间弹性垫、枕木平埋、两侧野花带（F1 事实：真实钢轨枕木恢复、融入景观，平嵌铺装级，不高架）](assets/figures/spine-rail-embed.png)
+
+![主脊夜景效果图（AI 概念意向，非实施图）— 铁路本体由上图平嵌构造设计图表达，本渲染不含铁路元素](assets/media/d1-spine-night.jpg)
 
 ![夜景设计（概念）：大钟寺界面夜景](assets/figures/night-front.png)
 
@@ -396,7 +398,7 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ![主脊·Hyper Line 街道剖面 S-S'（步骑分离，概念断面）](assets/figures/spine-section.png)
 
-![主脊·Hyper Line 步骑分离效果图（AI 概念意向，非实施图）— 对应 S-S' 断面：沿京张铁路遗产线位，五年后这条线](assets/media/hyperline-spine.jpg)
+![主脊·Hyper Line 步骑分离效果图（AI 概念意向，非实施图）— 对应 S-S' 断面：连续平坦慢行步道（无高差路堤、无架空），铁路本体由平嵌构造设计图表达](assets/media/hyperline-spine.jpg)
 
 主脊贯通（步行/骑行脊，weight=几何距离）+ 七点接驳（双侧，≤150m）；轨道依托五道口/大钟寺/知春路等 7 站；市政/公共服务为体系建议（无管线底数，不给工程线位结论）。交通组织遵循"网络优先于地块"：先接回主脊，再谈地块功能 [metric:C32_LAMBDA_STITCHED]。诚实声明：缝合不改净网 λ（29.167% 不变），交通收益在句法可达性（+36%）而非机动车耦合距离。几何含义：七点接驳各连走廊两侧最近路网节点（≤150m），形成连续的慢行主脊；数据缺口：道路红线与断面未公开，断面尺寸为概念建议；轨道站点接驳与市政管线布局待官方底数后给出。
 

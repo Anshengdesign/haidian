@@ -156,6 +156,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/section-zhongzhiyuan_ai_acceleration_area.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/site-overview.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/site-overview.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/spine-rail-embed.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/spine-rail-embed.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/spine-section.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/spine-section.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/stitch-anchor-cards.en.png",
@@ -226,7 +228,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 40990073,
+      "total_bytes": 41291523,
       "maintainer_bypass": false
     },
     "stderr": ""
