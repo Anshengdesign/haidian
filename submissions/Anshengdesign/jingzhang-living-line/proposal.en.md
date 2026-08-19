@@ -259,6 +259,18 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 | Quantum Garden 120m modules + ground-level single-storey service pavilion | CA unlock (42 cells reallocated) + redundancy R (reversible light intervention) |
 | λ information strip (the only screen) | Wilson λ data layer (supercritical share 29.17%); iron rule 11: screens ≤1, functional supporting role |
 
+**Three-layer urban-design frame (where every design object belongs — urban design includes architecture, blocks, plazas AND landscape; this is not a landscape scheme)**:
+
+| Layer | Scale | Urban-design body | This proposal |
+|---|---|---|---|
+| Macro | belt 11.4 km² | structure / land use / intensity & height / character / mobility / blue-green | one-line-three-folds-two-wings-seven-nodes, POI zoning, A5 intensity-height, road network + 7 rail stations, percolation 0.904, dual skyline (c17) |
+| Meso | block 120×120m | block module / buildings / street interface / public-space network | live-work mixed towers, block module (towers + podium + courtyard), facade street walls, 3.2m walkway + 40×40 courtyard |
+| Micro | place scale | plazas / landmarks / landscape / follies / interiors | three pilgrimage landmarks, seven stitches, three landscape boards, six study boards |
+
+![Live-work mixed towers · urban-design development: the architectural landing of the +5.3% entropy (20% housing in office-led towers / 15% office in housing-led, vertical zoning + core + fire codes)](assets/figures/tower-mix-study.en.png)
+
+![120×120 block module · urban-design development: towers + podium + courtyard + street wall; scale nesting (120m→40m→3.2m); 24m podium along the street + 60–80m towers set back (dual skyline)](assets/figures/block-study.en.png)
+
 **Node design concept statements (concept first — one line per node; renderings are concept-driven)**:
 
 | Node | Concept | Form | Atmosphere |

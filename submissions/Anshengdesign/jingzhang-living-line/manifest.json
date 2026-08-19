@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "1b93eb5aae55e616804d6a32f18d722f2db3b67b2b1f5b3396f966374610e407"
+      "sha256": "9b107f9c64178fb7abbde55f57edf4a69092831c34e1530e2b823583a6f517b4"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "ab7a42aed17a9028c9d24db09ed757fd874dbb6f751756eae9b14a6c2e902901"
+      "sha256": "70307014df37a169a651aa0b90a4e72ff487e952aecedf1aa06dfd6949cf31c5"
     },
     {
       "path": "compliance_matrix.json",
@@ -81,7 +81,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "377f9554c6de0a557499e27fb5450603ed695a4c9540a9b879727169da2ab4f3"
+      "sha256": "7806879a8ab0e5267081395af8ae85e2b9025f2da8026b515cf4263936fe45e7"
     },
     {
       "path": "report/narrative.md",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "702733feab6b3e7f40a9a060d0a077e64764e208aa3bee458770dd5d53760509"
+      "sha256": "a884d75a7cac00b97458907190f87921e7a48f445bb09ed2cf6e7153286f561e"
     },
     {
       "path": "report/proposal.en.html",
@@ -219,7 +219,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "c95226cabb29ecb07c93d161246cfaa41236cce9ab1f661c88efbc10b9750a5d"
+      "sha256": "73cbcbb4940bd7e3f2969246c5380bd7c3564cf3d5a0c7e369eda94ff49de5c8"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -1593,6 +1593,36 @@
       "language": "en",
       "translation_of": "assets/figures/anchor-quantum.png",
       "sha256": "d5f322663891ac35b0c1cba7d9810983e762aafcb9ad4b60c65352ddbe35f642"
+    },
+    {
+      "path": "assets/figures/tower-mix-study.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "2e998b02ad84939a66dcf60d512163596d4db667153c4e2fd1213695940389b5"
+    },
+    {
+      "path": "assets/figures/tower-mix-study.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "translation_of": "assets/figures/tower-mix-study.png",
+      "sha256": "bf164023599d2445f96aec3cc70015e2b40982a037d5c778f3f53f0730fe6d32"
+    },
+    {
+      "path": "assets/figures/block-study.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "112dbed08a3590980ce9830287145d0e596cee8811252def48a92e6453e24a79"
+    },
+    {
+      "path": "assets/figures/block-study.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "translation_of": "assets/figures/block-study.png",
+      "sha256": "95a241de51775e4e3a9db20bb6a3ba5576696725e0942a858c7c74bd938672a1"
     },
     {
       "path": "assets/media/quantum-garden.jpg",

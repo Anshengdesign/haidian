@@ -28,6 +28,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/anchor-quantum.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/anchor-stitch.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/anchor-stitch.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/block-study.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/block-study.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c1-wilson.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c1-wilson.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c11-simulacra.en.png",
@@ -184,6 +186,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/stitch-study.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/suture-structure.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/suture-structure.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/tower-mix-study.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/tower-mix-study.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/transmission-map.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/transmission-map.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/vision-kpis.en.png",
@@ -251,7 +255,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 35076413,
+      "total_bytes": 39825104,
       "maintainer_bypass": false
     },
     "stderr": ""
