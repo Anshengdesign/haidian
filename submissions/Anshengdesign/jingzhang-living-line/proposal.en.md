@@ -259,6 +259,22 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 | Quantum Garden 120m modules + semi-suspended service pavilion | CA unlock (42 cells reallocated) + redundancy R (reversible light intervention) |
 | λ information strip (the only screen) | Wilson λ data layer (supercritical share 29.17%); iron rule 11: screens ≤1, functional supporting role |
 
+**Node design development (one page, four cells: premise → translation → construction → use; every move answers "which mechanism it serves"; natural phenomena like starling flocks are footnotes, never premises)**:
+
+![Phase Plaza · Thousand-Scale Grove development: emergence premise (local rules → macro order) / translation (scale + wind = light-dark wave = the 0.904 transition made visible) / construction / use](assets/figures/scale-grove-study.en.png)
+
+![Quantum Garden development: CA unlock of 42 cells → garden blocks; 768 retrofit core + 120m modules + semi-suspended pavilion (§5) + thousand-grass wave](assets/figures/qg-garden-study.en.png)
+
+![Railside market development: standard aluminum module system (§2 zero-cutting + §6 Delta Stack) — one module × three rules = stall / canopy / kiosk / bench](assets/figures/market-study.en.png)
+
+![Origin Plaza development: 93.5th-percentile integration = the structural origin (data, not myth); one name per sleeper, density gradient, emptiness before the station](assets/figures/origin-study.en.png)
+
+![Interface Plaza development: 20.2% → +70% network transition; sound-pipe steps (emergent sound) + copper bell lines + temple emptiness](assets/figures/interface-study.en.png)
+
+![Seven stitches development: network before parcels; sculptural green bridge (§4 Gehry stair: one form + one material + crisp shadow)](assets/figures/stitch-study.en.png)
+
+![1733 light interface development: reuse as initial condition (§9 CENTERPIECE narrative); keep shell, free inside — the lit-dark rhythm emerges from use](assets/figures/1733-study.en.png)
+
 ![Landscape design (concept): Phase Plaza / Origin Plaza / Interface Plaza](assets/figures/landscape-phase.en.png)
 
 ![Phase Plaza daytime rendering (AI concept intent, not implementation)](assets/media/d2-phase-plaza-day.jpg)
@@ -266,6 +282,12 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 ![Landscape design: Origin Plaza](assets/figures/landscape-origin.en.png)
 
 ![Landscape design: Interface Plaza](assets/figures/landscape-front.en.png)
+
+![Quantum Garden rendering (AI concept intent, not implementation) — 768 retrofit core + 120m modules + semi-suspended pavilion (§5 levitating folly: thin columns, cantilever, serving citizens)](assets/media/quantum-garden.jpg)
+
+![Railside market rendering (AI concept intent, not implementation) — standard aluminum module system (§2/§6: zero cutting, exposed joints, reusable)](assets/media/market-module.jpg)
+
+![Stitch bridge rendering (AI concept intent, not implementation) — §4 sculptural bridge: one form, one material, across the North 3rd Ring Road](assets/media/stitch-bridge.jpg)
 
 ![Street-front concept elevations: test band / innovation street / AI-native front](assets/figures/facade-stack.en.png)
 

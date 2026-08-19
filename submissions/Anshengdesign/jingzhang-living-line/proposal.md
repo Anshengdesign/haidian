@@ -314,6 +314,22 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 | 量子花园 120m 模块＋半悬浮服务亭 | CA 解锁（42 单元再分配）＋冗余度 R（可逆轻介入） |
 | λ 信息条（唯一屏幕） | Wilson λ 数据层（超临界占比 29.17%）；铁律 11：屏幕 ≤1 处功能配角 |
 
+**节点设计推敲（一页四格：涌现本意→空间转译→构造→使用；每个手法回答"它服务哪条机制"，鸟群等自然现象仅为注脚不作前提）**：
+
+![相变广场·千鳞树阵 推敲：涌现本意（局部规则→宏观新秩序）/空间转译（鳞+风=明暗波=渗流 0.904 可视化）/构造/使用](assets/figures/scale-grove-study.png)
+
+![量子花园 推敲：CA 解锁 42 单元→花园街区；768 改造核+120m 模块+半悬浮服务亭（§5）+千株草浪](assets/figures/qg-garden-study.png)
+
+![铁路边市集 推敲：标准铝型材模块系统（§2 零切割+§6 Delta Stack）——同一模块×三种组合规则=亭/摊/棚/座四种形态](assets/figures/market-study.png)
+
+![原点广场 推敲：句法 93.5 百分位=结构原点（数据非传说）；一名字一枕木，密度渐变，站前留空](assets/figures/origin-study.png)
+
+![界面广场 推敲：末梢 20.2%→+70% 的网络相变；声管踏步（声的涌现）+铜线刻钟+古寺留白](assets/figures/interface-study.png)
+
+![七缝合 推敲：网络优先于地块；雕塑化绿桥（§4 盖里楼梯：一个形体+一种材质+清晰光影）](assets/figures/stitch-study.png)
+
+![1733 光之界面 推敲：再利用=初始条件（§9 CENTERPIECE 叙事）；保外松内，灯窗亮暗的韵律是使用涌现的](assets/figures/1733-study.png)
+
 ![三区景观设计（概念）：相变广场 / 原点广场 / 界面广场](assets/figures/landscape-phase.png)
 
 ![相变广场日景效果图（AI 概念意向，非实施图）](assets/media/d2-phase-plaza-day.jpg)
@@ -321,6 +337,12 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 ![三区景观设计：原点广场](assets/figures/landscape-origin.png)
 
 ![三区景观设计：界面广场](assets/figures/landscape-front.png)
+
+![量子花园效果图（AI 概念意向，非实施图）— 768 改造核+120m 模块+半悬浮服务亭（§5 脑洞小品：细柱悬挑、为市民服务）](assets/media/quantum-garden.jpg)
+
+![铁路边市集效果图（AI 概念意向，非实施图）— 标准铝型材模块系统（§2/§6：零切割、节点外露、可拆复用）](assets/media/market-module.jpg)
+
+![缝合绿桥效果图（AI 概念意向，非实施图）— §4 雕塑化连桥：一个形体一种材质，跨北三环](assets/media/stitch-bridge.jpg)
 
 ![三区临街界面概念立面：花园测试带 / 近校创新街 / 智能原生界面](assets/figures/facade-stack.png)
 
