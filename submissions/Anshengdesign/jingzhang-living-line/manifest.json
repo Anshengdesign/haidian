@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "5a1ff90a7b14eb6d94d4b919c08a3dbefe8e73ec88d03328dd44fc09df6781f4"
+      "sha256": "d82ad832972fef6bf2c603179036a58a62e5b3af70694f4e2d557a99ebf634ba"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "09e2d31eeeaf9450b7ccfdda0e496dfc7a4d545412339f8f405249976d00610c"
+      "sha256": "7ead656e666ed659313cd7fbae348c644744b71bf1eee21ccd9bab4a5be1cad9"
     },
     {
       "path": "compliance_matrix.json",
@@ -100,14 +100,14 @@
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "228d2a79164dd39bc76a4b4a7a9edf4f58b87ae9f96cbad69ee208b2c8b46364"
+      "sha256": "008b5e8d89446277696fc22b4c702399758340977135e36875e51a8708145869"
     },
     {
       "path": "drawings/a0-boards.pdf",
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "98b15217933ef40d501eedca4ae53762e36d0670477eede5b82d2c51b5eb9ce1"
+      "sha256": "c2d55049cd6e93d042f847dd275b379044c81aa1e66a64f1f6a070550bd17e69"
     },
     {
       "path": "visual/index.html",
@@ -227,7 +227,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a3-booklet.pdf",
-      "sha256": "f37e8d079e9c8c6cfbc24a5db236b48c1dfd1699e55506c23c41a13ae1a72100"
+      "sha256": "0a5e1267fe02de7dcf13b8f9475b2186b1f6fbdc855395f5f532494e5d47483e"
     },
     {
       "path": "drawings/a0-boards.en.pdf",
@@ -235,7 +235,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a0-boards.pdf",
-      "sha256": "1a3ea1c93598294650cf4cb3edf6c31d632d412acc999945df5e91005d1ad533"
+      "sha256": "a683658d06aecb74dd7a331a299b90aa8cd9e463db34b6fbc941d7d01c6fd416"
     },
     {
       "path": "visual/index.en.html",
@@ -1368,6 +1368,36 @@
       "language": "en",
       "sha256": "e91ccb2fbaabf0d2ebd52f390163a41b48a7f4ecd27051c44da0e92cd2ee033e",
       "translation_of": "assets/figures/wing-coordination.png"
+    },
+    {
+      "path": "assets/figures/qg-garden-design.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "85eebea088b963608570f23af872824c82ed3ad5c01f939c060276ba4be8d87c"
+    },
+    {
+      "path": "assets/figures/qg-garden-design.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "c3c96602a78253c610dfbb5330ff4105730eb8aab270b9e66a6d93ed0c926dc3",
+      "translation_of": "assets/figures/qg-garden-design.png"
+    },
+    {
+      "path": "assets/figures/campus-wall-design.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "zh",
+      "sha256": "4bcb78f1405dfbdc602a74223bd9396cc6392021fc7d0880d87cdca70e0d0247"
+    },
+    {
+      "path": "assets/figures/campus-wall-design.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "sha256": "223326da863ae24d9472a455db188f76d9a7d84f660104cdd325fad87ec99eed",
+      "translation_of": "assets/figures/campus-wall-design.png"
     }
   ],
   "validation_claim": {

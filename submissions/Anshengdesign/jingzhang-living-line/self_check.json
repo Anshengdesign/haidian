@@ -70,6 +70,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c7-poi.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c8-c9-c10.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c8-c9-c10.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/campus-wall-design.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/campus-wall-design.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/culture-heritage-map.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/culture-heritage-map.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/dazhongsi-quadrant-zoom.en.png",
@@ -140,6 +142,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/plan-dazhongsi_ai_industry_cluster.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/plan-zhongzhiyuan_ai_acceleration_area.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/plan-zhongzhiyuan_ai_acceleration_area.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/qg-garden-design.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/qg-garden-design.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/scale-drilldown.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/scale-drilldown.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/section-beijing_ai_origin_community.en.png",
@@ -218,7 +222,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 35585691,
+      "total_bytes": 35756962,
       "maintainer_bypass": false
     },
     "stderr": ""

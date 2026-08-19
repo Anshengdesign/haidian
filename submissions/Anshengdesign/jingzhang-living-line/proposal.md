@@ -253,7 +253,11 @@ art15（Batty LUTI）三层嵌套，本项目补全 [standard:luti]：
 
 ![众智园节点 · 768 量子花园改造核：8,735㎡ 老工业厂房 + 120m 模块插入 + 千株草浪](assets/figures/node-design-zhongzhiyuan.png)
 
+![量子花园设计：768 改造核（平面/剖面 A-A'/半悬浮服务亭透视，概念设计图）](assets/figures/qg-garden-design.png)
+
 ![原点节点 · 高校边界真实街巷：北航/北语真实校园边界 + 透绿文化展廊围墙 + 纸飞机亭](assets/figures/node-design-origin.png)
+
+![近校透绿文化展廊围墙设计：墙段立面/剖面/北航西侧真实街巷平面（概念设计图）](assets/figures/campus-wall-design.png)
 
 
 三区四件套 + **尺度化模块表**（每区：范围尺寸/关键空间尺度/公共路径底线/进入下一阶段停止条件）：
