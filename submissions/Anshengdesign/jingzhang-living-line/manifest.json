@@ -50,13 +50,13 @@
       "path": "sources.json",
       "role": "sources",
       "required": true,
-      "sha256": "663ed69cc2028c22bc6ad70e7e1dd18c89008759731c4a59cb82d3c500ba3bcb"
+      "sha256": "af910fe1bac336eccd8caf1ac0a6494739a96c6e9d8fdc9f24a0cf387b71b59b"
     },
     {
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "667fd31e0ae788825f175a32e3a8f2d6204f842fa248494fd12a69b4edf0e89f"
+      "sha256": "c34d65d49277c5365d07644cf70bc4400f8ff2391cfa6519653241587d3000f9"
     },
     {
       "path": "compliance_matrix.json",
@@ -68,7 +68,7 @@
       "path": "standard_matrix.json",
       "role": "standard_matrix",
       "required": true,
-      "sha256": "4e06b899dce1eefa483ea2095730cda9981b10524579ea2ea72f10654d0caabf"
+      "sha256": "e62dba9328f2d6199c353892008b824ce67c9826c6261fcc52bce67bb3278de8"
     },
     {
       "path": "design_depth_matrix.json",

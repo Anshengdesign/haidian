@@ -256,7 +256,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 36034802,
+      "total_bytes": 36041742,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -328,7 +328,7 @@
       "ok": true,
       "issues": [],
       "summary": {
-        "standard_matrix_items": 8,
+        "standard_matrix_items": 11,
         "design_depth_items": 15,
         "known_metric_refs_required": 72,
         "proposal_format_version": "2",
