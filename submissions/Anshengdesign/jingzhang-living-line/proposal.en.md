@@ -235,7 +235,7 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 
 ![Dazhongsi four-quadrant stitching zoom](assets/figures/dazhongsi-quadrant-zoom.en.png)
 
-![Dazhongsi four-quadrant · stitching structure design: green bridge overpass (clearance 5.5m / deck 6m) + concourse underpass (link 8m) + arcade setback (3m / 4.2m high), three sections + plan locator (concept design drawing)](assets/figures/suture-structure.en.png)
+![Dazhongsi four-quadrant · stitching structure design: green bridge overpass (clearance 5.5m / deck 6m) + concourse underpass (link 8m) + arcade setback (3m / 3.6m high, 3-span steel box-girder bridge + 1:12 ramp landings), three sections + plan locator (concept design drawing)](assets/figures/suture-structure.en.png)
 
 **Adaptive seed on the map**: near-zero-capacity cells → "new-build" color, absorbable cells → "backfill" color, over-capacity cells → "dispose" color (three-area boards use this coloring). Scale module fields: extent (120×120m block) / key spatial scales (3.2m walkway, 40×40m phase-change plaza) / public-path floor (normal paths remain usable when AI is removed) / HOLD condition.
 
@@ -256,14 +256,22 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 | Kept-rail seats / rail-motif paving | Fact F1 (real rails & sleepers restored) + tangible continuity of the spine's syntactic integration |
 | Terrace seats / view frames / wildflower band (three High-Line moves) | Park-like livability (third goal of the approved plan) + public stay supply behind jobs-housing entropy +5.3% |
 | Green-culture gallery wall | Repair of the wall-cutting mechanism (B2 BUAA/BLCU boundary), syntactic integration gain |
-| Quantum Garden 120m modules + semi-suspended service pavilion | CA unlock (42 cells reallocated) + redundancy R (reversible light intervention) |
+| Quantum Garden 120m modules + ground-level single-storey service pavilion | CA unlock (42 cells reallocated) + redundancy R (reversible light intervention) |
 | λ information strip (the only screen) | Wilson λ data layer (supercritical share 29.17%); iron rule 11: screens ≤1, functional supporting role |
+
+**Rendering anchoring discipline (written in after boss review)**: every rendering must be bound to a real anchor card (real OSM fabric + coordinates + design placement); unanchored scenes do not enter the package.
+
+![Anchor card: Stitch Bridge real site — N.3rd Ring Rd × Mingguang Rd crossing (47 road segs / 18 rails measured)](assets/figures/anchor-stitch.en.png)
+
+![Anchor card: Market real site — N.4th Ring Rd × west street edge of JZ Park Phase I (park built; market stays on existing streets outside the red line)](assets/figures/anchor-market.en.png)
+
+![Anchor card: Quantum Garden real site — Zhichunli 768 Creative Park (8,735 sqm factory measured)](assets/figures/anchor-quantum.en.png)
 
 **Node design development (one page, four cells: premise → translation → construction → use; every move answers "which mechanism it serves"; natural phenomena like starling flocks are footnotes, never premises)**:
 
 ![Phase Plaza · Thousand-Scale Grove development: emergence premise (local rules → macro order) / translation (scale + wind = light-dark wave = the 0.904 transition made visible) / construction / use](assets/figures/scale-grove-study.en.png)
 
-![Quantum Garden development: CA unlock of 42 cells → garden blocks; 768 retrofit core + 120m modules + semi-suspended pavilion (§5) + thousand-grass wave](assets/figures/qg-garden-study.en.png)
+![Quantum Garden development: CA unlock of 42 cells → garden blocks; 768 retrofit core + 120m modules + ground-level single-storey pavilion (§5 modest folly, not a floating building) + thousand-grass wave](assets/figures/qg-garden-study.en.png)
 
 ![Railside market development: standard aluminum module system (§2 zero-cutting + §6 Delta Stack) — one module × three rules = stall / canopy / kiosk / bench](assets/figures/market-study.en.png)
 
@@ -283,11 +291,11 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 
 ![Landscape design: Interface Plaza](assets/figures/landscape-front.en.png)
 
-![Quantum Garden rendering (AI concept intent, not implementation) — 768 retrofit core + 120m modules + semi-suspended pavilion (§5 levitating folly: thin columns, cantilever, serving citizens)](assets/media/quantum-garden.jpg)
+![Quantum Garden rendering (AI concept intent, not implementation) — real anchor: Zhichunli 768 Creative Park (8,735 sqm factory, 116.3290E 39.9765N); the service pavilion is a ground-level modest single-storey folly (eave 3.5m, thin columns + glass + warm wood), NO floating building](assets/media/quantum-garden.jpg)
 
-![Railside market rendering (AI concept intent, not implementation) — standard aluminum module system (§2/§6: zero cutting, exposed joints, reusable)](assets/media/market-module.jpg)
+![Railside market rendering (AI concept intent, not implementation) — real anchor: N.4th Ring Rd × west street edge of JZ Park Phase I (outside the park red line; the built park is untouched; rendering contains no railway elements)](assets/media/market-module.jpg)
 
-![Stitch bridge rendering (AI concept intent, not implementation) — §4 sculptural bridge: one form, one material, across the North 3rd Ring Road](assets/media/stitch-bridge.jpg)
+![Stitch bridge rendering (AI concept intent, not implementation) — real anchor: N.3rd Ring Rd × Mingguang Rd crossing (116.3402E 39.9646N); a pedestrian bridge over the 8-lane arterial, piers in the central median, 1.1m railings](assets/media/stitch-bridge.jpg)
 
 ![Street-front concept elevations: test band / innovation street / AI-native front](assets/figures/facade-stack.en.png)
 

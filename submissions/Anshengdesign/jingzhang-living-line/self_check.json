@@ -22,6 +22,12 @@
         "submissions/Anshengdesign/jingzhang-living-line/agent.json",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/1733-study.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/1733-study.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/anchor-market.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/anchor-market.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/anchor-quantum.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/anchor-quantum.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/anchor-stitch.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/anchor-stitch.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c1-wilson.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c1-wilson.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/c11-simulacra.en.png",
@@ -245,7 +251,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 33940251,
+      "total_bytes": 35752157,
       "maintainer_bypass": false
     },
     "stderr": ""
