@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "55082f527eb11059010fd013beabcf631f46fe7825b7438089f3645df1de1ea7"
+      "sha256": "0650970f40339da0fdf9ce0f7b03b48d04bae294c02953da61479dacafab7fb9"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "54403163f0ab6306993cc231ddb0087854b335a8417e084412bf913e5a5ad186"
+      "sha256": "696dc37cb7df2de3d9ed281b8f73fac024838758ecdc0d82c189eb2d8cad065d"
     },
     {
       "path": "compliance_matrix.json",
@@ -1404,14 +1404,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "fdeff19df925ca43be42e0ad8e3b8fcfa136ff3d1b693270c629aff336b1928d"
+      "sha256": "f657dc842049fde6e6289c8d637528be2ae38217c4301e5cc341560a1183f7d6"
     },
     {
       "path": "assets/figures/scale-grove-design.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "d6ef43a97abb084174fbbf8a94f4adcfccdf18cce25ef604ee115ef0779e96c6",
+      "sha256": "694b3c8317b2e8c4a530381cf5cbe0bc0fa1f6d2d224cd8b70823e1bc92a882c",
       "translation_of": "assets/figures/scale-grove-design.png"
     }
   ],

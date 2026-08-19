@@ -91,7 +91,9 @@ iteration: "v2.0"
 
 ![千鳞树阵·鳞单元设计：双面铝鳞构造/风动机制剖面/阵列平面（先设计后渲染，概念设计图）](assets/figures/scale-grove-design.png)
 
-![朝圣地标② 五道口·相变广场 — λ 互动光场装置（光柱随人流形成相变波前，非电子屏）](assets/media/phase-plaza.jpg)
+![千鳞树阵·鳞单元设计：双面铝鳞构造/风动机制剖面/阵列平面（先设计后渲染，概念设计图）](assets/figures/scale-grove-design.png)
+
+![朝圣地标② 五道口·相变广场 — 千鳞树阵：风过鳞翻如椋鸟群舞（物理涌现，非光柱非屏幕）+ λ 信息条](assets/media/phase-plaza.jpg)
 
 ![朝圣地标③ 大钟寺·界面广场 — 涌现之钟为广场新建光装置、与古钟（不可移动历史建筑）仅视线对景不并置](assets/media/interface-plaza.jpg)
 
