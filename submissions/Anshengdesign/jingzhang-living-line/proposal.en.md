@@ -235,9 +235,29 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 
 ![Dazhongsi four-quadrant stitching zoom](assets/figures/dazhongsi-quadrant-zoom.en.png)
 
+![Dazhongsi four-quadrant · stitching structure design: green bridge overpass (clearance 5.5m / deck 6m) + concourse underpass (link 8m) + arcade setback (3m / 4.2m high), three sections + plan locator (concept design drawing)](assets/figures/suture-structure.en.png)
+
 **Adaptive seed on the map**: near-zero-capacity cells → "new-build" color, absorbable cells → "backfill" color, over-capacity cells → "dispose" color (three-area boards use this coloring). Scale module fields: extent (120×120m block) / key spatial scales (3.2m walkway, 40×40m phase-change plaza) / public-path floor (normal paths remain usable when AI is removed) / HOLD condition.
 
 **Ring conclusion →** Three-area prescriptions are implementable with stop conditions. The Verification ring proves whether they "work".
+
+**Three design-language principles (logic before style — every move answers "which mechanism does it serve")**:
+
+**① One strong motif: the SCALE.** One motif carries the whole belt, self-justified — the belt's mechanistic language is "discrete units + local rules + collective emergence" (CA cellular automata, percolation phase transition, Wilson flows), and the scale is exactly the spatial translation of that language: each scale is an independent state unit (flip / not flip, open / closed) obeying only local rules (wind, light, temperature), with no preset overall pattern — the global order (starling wave, light-shadow ripple) **emerges** from interaction. Four scales therefore share the motif: paving is a scale (percolation strip paving), shading is a scale (facade aluminium-scale modules), the landmark is a scale (Thousand-Scale Grove), seating is a scale (scale-row arrangement). The motif decorates no surface — it is the touchable form of the mechanism itself. Iron rule: scales appear only where a mechanism has semantic meaning (phase-transition visualization, shading energy saving, percolation paths), never pasted onto unrelated facades.
+
+**② Material circularity (demountable, replaceable, remeltable).** Aluminium scales (grove & facade shading): recycled aluminium, standard modules under 1 kg each, individually replaceable, remelted at end of life (remelt energy ≈ 5% of primary), bases are pre-embedded bolts with no in-situ casting; timber (market canopies, seats, boardwalks): reclaimed wood / CLT modular joinery, fully relocatable — the reversibility requirement of redundancy R; concrete (percolation strip paving, 3.2m walkway): pervious concrete + recycled aggregate (demolition waste crushed and reused), strip units lifted locally for repair; rails: real steel rails and sleepers recovered and reused on the original alignment, no new extraction. Material accounts of the 44.6万㎡ new-build modules are listed separately at working-drawing stage and folded into the seven investment categories.
+
+**③ Style self-justification (move → mechanism table, all recomputable)**:
+
+| Design move | Mechanism / gap it serves (data source) |
+|---|---|
+| Thousand-Scale Grove (wind-flip aluminium scales) | Visualization of percolation phase transition 0.840→0.904: scale flips = local state changes, the overall wave = emergent transition |
+| Percolation strip paving + fine mist | Blue-green percolation paths (giant component 86.5%); the strip = permeable edge |
+| Kept-rail seats / rail-motif paving | Fact F1 (real rails & sleepers restored) + tangible continuity of the spine's syntactic integration |
+| Terrace seats / view frames / wildflower band (three High-Line moves) | Park-like livability (third goal of the approved plan) + public stay supply behind jobs-housing entropy +5.3% |
+| Green-culture gallery wall | Repair of the wall-cutting mechanism (B2 BUAA/BLCU boundary), syntactic integration gain |
+| Quantum Garden 120m modules + semi-suspended service pavilion | CA unlock (42 cells reallocated) + redundancy R (reversible light intervention) |
+| λ information strip (the only screen) | Wilson λ data layer (supercritical share 29.17%); iron rule 11: screens ≤1, functional supporting role |
 
 ![Landscape design (concept): Phase Plaza / Origin Plaza / Interface Plaza](assets/figures/landscape-phase.en.png)
 

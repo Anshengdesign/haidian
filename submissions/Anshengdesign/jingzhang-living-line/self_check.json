@@ -160,6 +160,8 @@
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/spine-section.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/stitch-anchor-cards.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/stitch-anchor-cards.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/suture-structure.en.png",
+        "submissions/Anshengdesign/jingzhang-living-line/assets/figures/suture-structure.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/transmission-map.en.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/transmission-map.png",
         "submissions/Anshengdesign/jingzhang-living-line/assets/figures/vision-kpis.en.png",
@@ -224,7 +226,7 @@
       "ai_package_stages": {
         "submissions/Anshengdesign/jingzhang-living-line": "formal"
       },
-      "total_bytes": 35876043,
+      "total_bytes": 40990073,
       "maintainer_bypass": false
     },
     "stderr": ""
