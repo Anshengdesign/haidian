@@ -44,7 +44,7 @@
       "path": "assumptions.json",
       "role": "assumptions",
       "required": true,
-      "sha256": "480e41a9e40f9bdace3837e826459bde8da7f4aff2b744dff95aa36921311d0b"
+      "sha256": "8215b881a67d41a0346626f834339b7c1ad0edaa508d7df3af4bfd991b4533d4"
     },
     {
       "path": "sources.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "c34d65d49277c5365d07644cf70bc4400f8ff2391cfa6519653241587d3000f9"
+      "sha256": "2ba646ccbdb0151ce70bbb2fef94a231f64d87a74110c91efe6410eec053656c"
     },
     {
       "path": "compliance_matrix.json",
