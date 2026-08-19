@@ -259,6 +259,18 @@ Three-area four-piece kit + **scale module table** (per area: extent / key spati
 | Quantum Garden 120m modules + ground-level single-storey service pavilion | CA unlock (42 cells reallocated) + redundancy R (reversible light intervention) |
 | λ information strip (the only screen) | Wilson λ data layer (supercritical share 29.17%); iron rule 11: screens ≤1, functional supporting role |
 
+**Node design concept statements (concept first — one line per node; renderings are concept-driven)**:
+
+| Node | Concept | Form | Atmosphere |
+|---|---|---|---|
+| Phase Plaza | A breathing silver screen — the wind directs, scales are pixels, the plaza is a theater | pole canopy fills the frame, low upward angle | blue hour: backlit silver canopy + copper rim light |
+| Quantum Garden | An industrial greenhouse of memory — a test garden grows inside the old factory's skeleton | 768 trusses = greenhouse frame, warm interior glow | dusk: cold blue × warm gold |
+| Origin Plaza | A road paved with names — every contributor is one stop on this road | sleeper array gradient, station left open | long autumn-morning shadows |
+| Interface Plaza | The bell sinks into the ground — the old bell's shadow is the AI bell face | copper bell lines + sound-pipe slope, temple silhouette | blue hour + last daylight |
+| Railside Market | Improvisation in a thousand profiles — no cutting, no drilling, today's stalls assembled | aluminum-profile structure forest | matte aluminum + warm stall lamps |
+| Stitch Bridge | A rib across the traffic — the spine continues over the road | sculptural 3-span steel box girder, backlit silhouette | light trails below |
+| 1733 Light Interface | Keep the shell, free the inside — the old mall's shell holds the night school's lamps | lit-window rhythm + loft steel showing through | dark facade × warm gold windows |
+
 **Rendering anchoring discipline (written in after boss review)**: every rendering must be bound to a real anchor card (real OSM fabric + coordinates + design placement); unanchored scenes do not enter the package.
 
 ![Anchor card: Stitch Bridge real site — N.3rd Ring Rd × Mingguang Rd crossing (47 road segs / 18 rails measured)](assets/figures/anchor-stitch.en.png)

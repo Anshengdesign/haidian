@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "b0fe4a56a580a1b36bb3df715e3ba5b51dbf051fc7c333f966da64988d4eabc0"
+      "sha256": "310f8921fd0a9cfeb4ef2ed9f757219475ba688063677af8e0d409624475e259"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "c39b685631e61e48480e3c0ab0357b3046addc9375e873eea6cb0e9a13b10aa9"
+      "sha256": "029fa53d8f20ba721afbbdb8941bd839fe25f3c60f212b7bb819469b61d2af21"
     },
     {
       "path": "compliance_matrix.json",
@@ -81,7 +81,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "6b8633b370fcaad47ebd1b01f00e6530263561db46bbc05b8fe89e9821967790"
+      "sha256": "377f9554c6de0a557499e27fb5450603ed695a4c9540a9b879727169da2ab4f3"
     },
     {
       "path": "report/narrative.md",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "46903a7f4ae7311645acf18ff543d19e8d27a957ae4e61cfeaaee8c32955709a"
+      "sha256": "2e52c23306ef37d78ee63596d2335f1c46f2e0ee73bf0e341a04c95ac72bbff5"
     },
     {
       "path": "report/proposal.en.html",
@@ -219,7 +219,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "7fcc32447dd46a7367f01735c8035a11cdd216b704c5e8e7de230b4d30e779f2"
+      "sha256": "c95226cabb29ecb07c93d161246cfaa41236cce9ab1f661c88efbc10b9750a5d"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -329,7 +329,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "8b03572e137ad2e7674a174f802f3463980c64944df8a3b9f3780e0f4f1a96a3"
+      "sha256": "3cc30cf863a82b0af41a4fa5baf90f82ee893d07a2247f1a88f7e99475bc1fdd"
     },
     {
       "path": "assets/media/phase-plaza.jpg",
@@ -338,7 +338,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "7240e1be6805b24fe4637638726585ef399776cec043c35a6d2e97b8d71fa10a"
+      "sha256": "e5edaace0d96797fbdba797ce434eb04878ee552c92fe808d90c3c5cd351af75"
     },
     {
       "path": "assets/media/interface-plaza.jpg",
@@ -347,7 +347,7 @@
       "language": "neutral",
       "title_zh": "概念渲染（AI生成）",
       "title_en": "Conceptual rendering (AI-generated)",
-      "sha256": "a9ba6978560963d7857c331b6435a38f119705b92167d954166619d5567baf84"
+      "sha256": "649f6d97ab6f387369a2f809a79f5829ff193e356f1e7639e9c798bb0c4451f1"
     },
     {
       "path": "assets/figures/c8-c9-c10.en.png",
@@ -701,7 +701,7 @@
       "language": "neutral",
       "title_zh": "2035 愿景鸟瞰（AI概念渲染）",
       "title_en": "2035 Vision aerial (AI conceptual rendering)",
-      "sha256": "ae0060ca9a81c351682d378293c4fba02a254888d76dbb774d048bdbfe93715d"
+      "sha256": "752ecc23f5dec8599d3ceeb4abadfbebbbfe2420ec5cc938aa74baa1d9661eaa"
     },
     {
       "path": "assets/figures/c17-height-character.png",
@@ -911,7 +911,7 @@
       "role": "media_poster",
       "required": false,
       "language": "neutral",
-      "sha256": "fd6b98bfb04341eda7ef879ca3be0873a710f91836ca410d49b76859fa72583b"
+      "sha256": "b63730e0219c796c7c7953b26bc64ffcdc411c7c902afb379938caf234d4eb36"
     },
     {
       "path": "assets/figures/vision-kpis.png",
@@ -1203,21 +1203,21 @@
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "0e90ffe07cc2dde77200d3fada4c850295afad48cc994283eb77993e94dbda89"
+      "sha256": "7ebdf2cdd706578e45fdd73a5c5bb38f8756fdba401bf62ee5ff3c38edfa2c63"
     },
     {
       "path": "assets/media/d2-phase-plaza-day.jpg",
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "ef8a2ec7055f19047a4273301cea947dac0b8d9b6c0e3b47dcebb517d3579339"
+      "sha256": "6ac7d372f8e4ccc36a10bcbc280f5392ad20b91cbaf22f9d426d8df386ad9d5b"
     },
     {
       "path": "assets/media/d3-shared-workspace.jpg",
       "role": "media_poster",
       "required": false,
       "language": "zh",
-      "sha256": "44d780054d1ce14feda1f2d8e5c52231505bea62785f6178afb1932bebeb6be0"
+      "sha256": "6ea1e52f896b94caf77af473d4d5d8ffd1f394e42231d73ed6c7dd26273a0ebf"
     },
     {
       "path": "assets/figures/c35-finance.png",
@@ -1598,19 +1598,19 @@
       "path": "assets/media/quantum-garden.jpg",
       "role": "media_poster",
       "required": false,
-      "sha256": "db86493ebc36b4eb2bb2c08940696ce4a392f59d4b84714f43f97d50f6f40159"
+      "sha256": "71719c9d677a84252e8a66931924f4c9df4daca40f877925d6d26893690f72d3"
     },
     {
       "path": "assets/media/market-module.jpg",
       "role": "media_poster",
       "required": false,
-      "sha256": "0b8512d48315f1317bc52aae8c70e1109b0178ec51934fcd24c0e03159ed4db3"
+      "sha256": "bf7729abd48efa428fd56b878f7de55066de684a9999aa6b5dd3181e4b47128c"
     },
     {
       "path": "assets/media/stitch-bridge.jpg",
       "role": "media_poster",
       "required": false,
-      "sha256": "008a62f625ba421e1df8762c386a0807d621820830ea3ec572863285d96a9e03"
+      "sha256": "f29e36c18bb6b14b9d7e8e71d0ae6d57cd46ffa34c14db4420a4e29e78fbff84"
     }
   ],
   "validation_claim": {
