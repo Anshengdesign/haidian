@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "9ccbb0e824d1cdbe0b791df8dd08ac8757d73db7972c52a2ff3c57750c565a16"
+      "sha256": "da07215a52d5226e1e90b08715bf4a4ad06a671e1d16976fbc4329a13665a2a6"
     },
     {
       "path": "compliance_matrix.json",
@@ -1143,14 +1143,14 @@
       "role": "proposal_figure",
       "required": false,
       "language": "zh",
-      "sha256": "540bff78f6d3b587d8fd78bbc7f616ddf33ec280084215c181ba7b57cf3520d3"
+      "sha256": "8c6781e6c695e61b6049626c11e11715ed03dc268c720fe10c78787a7a23f556"
     },
     {
       "path": "assets/figures/night-spine.en.png",
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "0dabcf454032fde5045c5efa6b15af554fdcaf30b1782bbb53cbc3e73c8b0056",
+      "sha256": "dab684605a61c35851a0c96723f9b057d54018678f7db2e44a0c20af0fe740b8",
       "translation_of": "assets/figures/night-spine.png"
     },
     {
